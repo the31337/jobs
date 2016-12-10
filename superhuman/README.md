@@ -7,8 +7,6 @@ It’s gorgeous. Blazingly fast. And comes with advanced features that give you 
 
 ## Open Positions
 #### [Polymath Fullstack Engineer](https://github.com/the31337/jobs/blob/master/superhuman/polymath-fullstack-engineer.md)
-#### [iOS Engineer](https://github.com/the31337/jobs/blob/master/superhuman/ios-engineer.md)
-
 
 ## Location
 ![465 California St. #500, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=365+California+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C365+California+St,+San+Francisco,+CA)  
