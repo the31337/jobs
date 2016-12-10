@@ -1,33 +1,3 @@
-# README.first
-Below is a sampling of openings available at companies I partner with.  While
-recruiters often like to play games and not reveal specific company names until later in the process,
-I value transparency from the get go.   In fact, it's my goal to reveal as much information as I possibly can about the company, the team, salary ranges, and whatever other intelligence I can
-gather that will help you make informed decisions on where to apply.  My hope is that you will ultimately see value in the openness of my approach and choose to work with me instead of applying directly.  Plus working with me is more advantageous for you for several reasons:
-
-+ I can submit your resumé to more companies faster than you can.
-+ I will get your resumé in front of the right people at those companies.  If you apply directly it's a bit of a crapshoot, even for highly qualified people.
-+ I will prep you for your interviews with very specific information about the process, who you
-can expect to talk to, and what kinds of interview questions you can expect.  For certain roles,
-I can even conduct a mock technical interview if you like.
-+ Often times I can negotiate a better compensation package for you than you might otherwise negotiate yourself.   
-+ I make the whole process much, much smoother by taking care of the tedious work that goes along
-with finding a new job.
-
-So check out the openings below.   If you see something that piques your interest, get in touch
-with me and I can tell you all about the company, the team, and a little bit more about what
-they're looking for.   
-
-```javascript
-  const contact = {
-    name: 'Josh Deeden',
-    phone: '(862)2-31337-2',
-    email: 'josh@31337.engineer',
-    github: 'https://github.com/gangster',
-    stackoverflow: 'https://stackoverflow.com/users/545564/josh-deeden',
-    linkedIn: 'https://linkedin.com/in/jdeeden'
-  };
-```
----
 # Current Openings
 ## Affirm Inc
 ###### San Francisco, CA
@@ -154,9 +124,9 @@ they're looking for.
 ###### San Francisco, CA
 + [Senior Full Stack Engineer (node)](https://github.com/the31337/openings/blob/master/opentable/senior-full-stack-engineer-node.md)
 
-## Pix Systems
+## Pix System
 ###### San Francisco, CA
-+ [Software Project Manager](https://github.com/the31337/openings/blob/master/pix-systems/software-project-manager.md)
++ [Software Engineer | Platform ](https://github.com/the31337/openings/blob/master/pix-system/software-engineer-platform.md)
 
 ## Presence Learning
 ###### San Francisco, CA
