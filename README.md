@@ -124,7 +124,12 @@
 ###### San Francisco, CA
 + [Senior Full Stack Engineer (node)](https://github.com/the31337/openings/blob/master/opentable/senior-full-stack-engineer-node.md)
 
-## Pix System
+## [Philo](https://github.com/the31337/jobs/tree/master/philo)
+###### San Francisco, CA
++ [Back-end Software Engineer](https://github.com/the31337/jobs/blob/master/philo/back-end-software-engineer.md)
++ [Front-end Software Engineer](https://github.com/the31337/jobs/blob/master/philo/front-end-software-engineer.md)
+
+## [Pix System](https://github.com/the31337/jobs/tree/master/pix-system)
 ###### San Francisco, CA
 + [Software Engineer | Platform ](https://github.com/the31337/openings/blob/master/pix-system/software-engineer-platform.md)
 
@@ -180,24 +185,23 @@
 ###### San Francisco, CA
 + [Senior Software Engineer](https://github.com/the31337/openings/blob/master/sonar/senior-software-engineer.md)
 
-
 ## Spire
 ###### San Francisco, CA
 + [Software Development Engineer - Android](https://github.com/the31337/openings/blob/master/spire/software-development-engineer-android.md)
 + [Software Development Engineer - iOS](https://github.com/the31337/openings/blob/master/spire/software-development-engineer-ios.md)
 + [UX & Design Lead](https://github.com/the31337/openings/blob/master/spire/ux-design-lead.md)
 
-## Stockpile
+## [Stockpile](https://github.com/the31337/jobs/tree/master/stockpile)
 ###### Palo Alto, CA
 + [Backend Engineer](https://github.com/the31337/openings/blob/master/stockpile/backend-engineer.md)
++ [Senior Front-end Engineer](https://github.com/the31337/openings/blob/master/stockpile/senior-front-end-engineer.md)
 + [Full-stack Engineer (JS/ Java)](https://github.com/the31337/openings/blob/master/stockpile/full-stack-engineer-js-java.md)
 
-## Superhuman
+## [Superhuman](https://github.com/the31337/jobs/tree/master/superhuman)
 ###### San Francisco, CA
-+ [iOS Engineer](https://github.com/the31337/openings/blob/master/superhuman/ios-engineer.md)
 + [Polymath Fullstack Engineer](https://github.com/the31337/openings/blob/master/superhuman/polymath-fullstack-engineer.md)
 
-## The RealReal
+## [The RealReal](https://github.com/the31337/jobs/tree/master/the-realreal)
 ###### San Francisco, CA
 + [Rails Engineer](https://github.com/the31337/openings/blob/master/the-realreal/rails-engineer.md)
 
