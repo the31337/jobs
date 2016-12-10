@@ -44,7 +44,7 @@ Will take H1-B transfers
 + Do your research about the company, the founders, and competitive products in email
 
 ## Interview Process
-+ 30-69 minute call w/ co-founder Vivek Sodera
++ 30-60 minute call w/ co-founder Vivek Sodera
 + 1 hr tech Screen onsite/remote coding project + interview
 + Half-day onsite interview
 
