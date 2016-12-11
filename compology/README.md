@@ -1,1 +1,56 @@
-# Compology 
+# 🗑 Compology 🚚
+
+## Overview
+Compology builds WasteOS: the only routing system built exclusively for the waste industry. They use sensors and software to monitor levels in industrial waste containers to more efficiently route collection trucks. This has created massive saving for their customers by reducing their fleet sizes (collection trucks) by up to 40%.
+
+
+## Open Positions
+#### [Senior Frontend Engineer](https://github.com/the31337/jobs/blob/master/compology/senior-frontend-engineer.md)
+
+## Location
+![2121 Harrison St, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C2121+Harrison+St,+San+Francisco,+CA)  
+
+## Technologies
++ node.js
++ Python
++ AWS
++ Android
++ PostgreSQL
+
+## Team Size
+Team of 11 – 2 on the business side, 2 data entry, Product Manager, 2 hardware engineers, 4 software engineers.
+
+## Funding
+Funding Rounds (3) - $7.53M
+pr, 2016	$7M / Series A
+Mar, 2016	undisclosed amount
+Apr, 2014	$525k / Debt Financing
+
+## Benefits & Perks
+Coming soon...
+
+## Good To Know
++ Founders went to High School together.
+  + Jason Gates – Business end with Civil Engineering background. Worked in Construction Management & Military Radar systems at Lockheed Martin.
+  + Ben Chehebar – CPO. Mech Eng from UMich, designed basketball shoes for Adidas prior to Compology.
+  + They think of themselves as “Glue Guys.” The people behind the scenes that get shit done. For this reason the garbage man mentality really resonates with them. Perform a crucial role within the ecosystem of every city in America but go largely overlooked.
++ Revenue generating – currently operating in California, Ohio, Texas, Nebraska. They have contracts with 3 of the 4 top waste haulers in the country.
++ Pride themselves on being scrappy & resourceful
++ Platform
+  + Hardware unit w/ embedded sensors – resides in a commercial trash receptacle, takes a compressed still image that is converted into data and sent back to Compology’s servers in real-time.
+  + Android tablets – reside in garbage trucks, telling drivers what receptacles need to be emptied, when to empty them, and the optimal route.
+  + Web platform - provides back office with a birds-eye view of their territory along with basic analytics on how efficiently they are operating.
+  + Machine Learning – used to extrapolate fill ratios (if receptacle A is outside a restaurant, odds are it is going to fill more quickly Friday-Sunday and will be emptied accordingly.
+
+## Interview Process
++ 30 minute phone call with founder (Jason).
++ Phone call with Engineer
++ Onsite interview which will include a working session.
++ Close with a lunch, happy hour, or dinner with the co-founders
+
+## On The Web
++ [Website](http://compology.us)  
++ [Crunchbase](https://www.crunchbase.com/organization/compology)  
++ [Twitter](https://twitter.com/compology)  
+
+## News
