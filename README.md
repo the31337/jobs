@@ -25,7 +25,7 @@
 ###### San Francisco, CA
 + [Data Platform Engineer](https://github.com/the31337/openings/blob/master/betterdoctor/data-platform-engineer.md)
 
-## Bons.ai
+## [Bonsai AI](https://github.com/the31337/jobs/tree/master/bonsai)
 ###### Berkeley, CA
 + [Technical Product Manager](https://github.com/the31337/openings/blob/master/bonsai/technical-product-manager.md)
 
@@ -46,7 +46,6 @@
 
 ## Cruise
 ###### San Francisco, CA
-
 + [C++/Algorithm Software Engineer](https://github.com/the31337/openings/blob/master/cruise/c%2B%2B-algorithm-software-engineer.md)
 
 ## Delighted
@@ -93,7 +92,6 @@
 
 ## Long Game
 ###### San Francisco, CA
-
 + [Full Stack Engineer](https://github.com/the31337/openings/blob/master/long-game/full-stack-engineer.md)
 
 ## Marble
@@ -140,6 +138,12 @@
 ## Qeexo
 ###### Mountain View, CA
 + [Android Framework Engineer](https://github.com/the31337/openings/blob/master/qeexo/android-framework-engineer.md)
+
+### [Rabbit](https://github.com/the31337/jobs/tree/master/rabbit)
++ [Senior Software Engineer | iOS](https://github.com/the31337/openings/blob/master/rabbit/senior-software-engineer-ios.md)
++ [Senior Software Engineer | Platform](https://github.com/the31337/openings/blob/master/rabbit/senior-software-engineer-platform.md)
++ [Senior Software Engineer | Real-Time Audio / Video Networking](https://github.com/the31337/openings/blob/master/rabbit/senior-software-engineer-real-time-audio-video-networking.md)
++ [Senior Web Developer](https://github.com/the31337/openings/blob/master/rabbit/senior-web-developer.md)
 
 ## RepairPal
 ###### San Francisco, CA

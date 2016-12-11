@@ -31,8 +31,8 @@ Palo Alto, CA
 + 2 Mobile
 
 ## Funding
-Oct, 2015	$15M / Series A  
-Sep, 2013	undisclosed amount / Convertible Note  
++ Oct, 2015	$15M / Series A  
++ Sep, 2013	undisclosed amount / Convertible Note  
 
 ## Benefits & Perks
 + Healthcare - 100% premium coverage for employees and family

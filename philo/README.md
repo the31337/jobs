@@ -20,10 +20,10 @@ The average American watches 4.5 hours of TV a day, and cable is the biggest adv
 
 ## Funding
 $18.83 million in 3 rounds  
-Jun, 2015	$10M / Series B  
-Nov, 2014	$2.53M / Debt Financing	  
-Jul, 2013	$6.3M / Series A  
-Jun, 2011	undisclosed amount  
++ Jun, 2015	$10M / Series B  
++ Nov, 2014	$2.53M / Debt Financing	  
++ Jul, 2013	$6.3M / Series A  
++ Jun, 2011	undisclosed amount  
 
 ## Benefits & Perks
 + Collaborate with energetic, innovative, and dedicated colleagues
