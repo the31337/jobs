@@ -54,3 +54,10 @@ Coming soon...
 + [Twitter](https://twitter.com/compology)  
 
 ## News
++ [Meet the new wave of tech companies taking out the trash](https://techcrunch.com/2016/07/18/meet-the-new-wave-of-tech-companies-taking-out-the-trash/)
++ [How Smart Cans Are Making Garbage Pickup Cheaper And Less Smelly](http://www.fastcoexist.com/3059163/how-smart-bins-are-making-garbage-pickup-cheaper-and-less-smelly)
++ [Making Trash Pickup Smarter, Cheaper](https://nextcity.org/daily/entry/dumpsters-sensors-efficient-trash-pickup)
++ ['Smart Garbage' Startup Cuts City Trash Costs by 40 Percent](http://www.govtech.com/civic/Smart-Garbage-Startup-Cuts-City-Trash-Costs-by-40-Percent.html)
++ [Mega Session: Smart Trucks: New Collection Technologies](https://www.youtube.com/watch?v=7gL__4shpPw)
++ [20 Awesome Smart Tech and IoT Startups To Watch](http://controlyourbuilding.com/blog/entry/20-awesome-smart-tech-and-iot-startups-to-watch)
++ 
