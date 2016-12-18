@@ -4,8 +4,8 @@
 Glint is creating a SaaS "people" Analytics platform using NLP and Machine Learning to measure, track and act on Employee Engagement using behavioral sciences. Their recent $37M Series C round brings their total funding to $60M. Solid leadership, with a Co-Founder & CEO who co-founded Turn, (now worth over 700M dollars). Glint is already saving thousands of dollars for big name companies like Pandora, Nest, and AOL. They have 100 paying clients with 500,000 users and million $ revenue/ year. They are looking for Engineer #16 to join the team.
 
 ## Open Positions
-#### [Senior Systems Engineer](https://github.com/the31337/glint/blob/master/senior-systems-engineer.md)
-#### [Senior Web Applications Engineer](https://github.com/the31337/glint/blob/master/senior-web-applications-engineer.md)
+#### [Senior Systems Engineer](https://github.com/the31337/jobs/blob/master/glint/senior-systems-engineer.md)
+#### [Senior Web Applications Engineer](https://github.com/the31337/jobs/blob/master/glint/senior-web-applications-engineer.md)
 
 ## Location
 ![1100 Island Drive, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=1100+Island+Drive,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C1100+Island+Drive,+Redwood+City,+CA)  
