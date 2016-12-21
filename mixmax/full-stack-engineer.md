@@ -3,8 +3,6 @@
 
 At Mixmax, our mission is building the impossible: a next-gen communications platform to make professional communications as rich, interactive, and developer-friendly as the web. We’re looking for talented full-stack engineers to join our in this mission.  
 
-We’re a distributed & international team, so if you’re looking to work with us remotely, we encourage you to apply!  
-
 ## What will I be working on?
 
 As a full-stack engineer, you’ll be working with us in all aspects of the product, from its core infrastructure to its custom front-end. This includes architecting systems to integrate with external services, building a full-featured web editor, and choreographing email systems and protocols. We’ll leave it largely up to you to evolve the stack as you see fit. We eagerly participate in open source development and will encourage you to do the same.
