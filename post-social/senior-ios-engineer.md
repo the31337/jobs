@@ -1,29 +1,33 @@
 # Senior iOS Engineer
+### San Francisco, CA
+We’re building a beautiful, open-source, scriptable messaging platform in the spirit of the web. People who've seen it say it combines the best of Twitter, Tumblr, and Slack. True to our values, we've made all of it scriptable—our sandboxed JavaScript execution environment runs on phones, desktops and the cloud. This goes way beyond bots: third party developers can succinctly customize and deploy new feed behavior and UI.
 
-We are working on an open-source, end-to-end encrypted, JS-scriptable messaging platform in the spirit of the web. We are early contributors to Firefox and Chrome, Netflix and Yelp. We've built and shipped browsers to billions of people and have scaled backend services as large as Google Search. We believe that an open approach to a communication platform is a better future than where just one or two companies control how we talk and share information—we shouldn't have to just sit idly hoping that Facebook will combat fake news while at the same time it builds censorship tools for China.  
+We are early contributors to Firefox and Chrome, Netflix and Yelp; led by a repeat founder. We've built and shipped browsers to billions of people and have scaled backend services as large as Google Search.
 
-Imagine if you could rip out retweet from Twitter and replace it with something else in a couple lines of Javascript. Or find a community you like, view-source, and fork its underlying code.  
+We believe that an open approach to a communication platform leads to a better future than one in which a handful of companies own the way in which we talk. We've seen how that turned out.
 
-We are looking for an iOS developer responsible for the development and maintenance of applications aimed at a range of iOS devices including mobile phones and tablet computers. Your primary focus will be development of iOS applications and their integration with back-end services. You will be working alongside other engineers and developers working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and the creation of quality products is essential.
+We work mostly distributed around the Bay Area and are nearing the end of our alpha. Now is the perfect time to join us.
 
-We work mostly distributed around the Bay Area. We are nearing the end of our alpha. Now is the perfect time to join us :)  
+ᕙ〳 ರ ︿ ರೃ 〵ᕗ
 
-## Responsibilities
-+ Design and build applications for the iOS platform
+## You Will
+
++ Co-build the flagship iOS app, libraries for the iOS platform, and integrations with Other.js — our scripting platform
 + Ensure the performance, quality, and responsiveness of applications
-+ Collaborate with a team to define, design, and ship new features
-+ Identify and correct bottlenecks and fix bugs
++ Scenius with a team to define, design, and ship new features
 + Help maintain code quality, organization, and automatization
 
-## Skills
-+ Proficient with Swift and Cocoa Touch
-+ Experience with iOS frameworks such as Core Data, Core Animation, etc.
-+ Experience with offline storage, threading, and performance tuning
-+ Familiarity with RESTful APIs to connect iOS applications to back-end services
-+ Knowledge of other web technologies and UI/UX standards
-+ Understanding of Apple’s design principles and interface guidelines
-+ Knowledge of low-level C-based libraries is preferred
-+ Familiarity with cloud message APIs and push notifications
-+ Knack for benchmarking and optimization
-+ Proficient understanding of Git
-+ Familiarity with continuous integration
+## You have
+
++ Years of experience building large-scale, consumer-facing software and Cocoa products
++ Proficiency with Swift, Autolayout, XCode instruments
++ Fluency in both client and server programming including RESTful and Websocket APIs
++ Significant involvement in the development of at least two shipped apps in the App Store
++ Love to hack
+
+## Bonus Points
+
++ Experience developing applications for the iPad
++ Experience developing and maintaining iOS frameworks
++ Proficiency in Javascript and front-end web technologies
++ Experience working with AVFoundation, CoreBluetooth, OpenGL, JavascriptCore
