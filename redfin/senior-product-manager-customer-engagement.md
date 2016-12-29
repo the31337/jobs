@@ -1,4 +1,4 @@
-# Sr. Product Manager (Customer Engagement)
+# Senior Product Manager (Customer Engagement)
 ### San Francisco, CA
 
 We are a well-funded technology startup revolutionizing the $60 billion real estate industry. We use data, innovative design, and beautiful software to put consumers first throughout the process of buying and selling homes. Get ready to dive headfirst into our award-winning website and mobile apps and solve challenging business problems in a customer friendly way. Unleash your brilliance and do work that matters. At our company, you will be part of something much bigger than just a job. If you've got fire in your belly to do work that matters, we want to hear from you.
