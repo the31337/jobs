@@ -1,1 +1,1 @@
-# Velodyne LiDAR
+# Velodyne LIDAR Inc.
