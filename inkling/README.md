@@ -4,9 +4,9 @@
 Inkling was founded by Matt Macinnis in 2009, who graduated from Harvard and previously worked at Apple. It is the first world's all-in-one enterprise content platform, that helps you engage your audience in the ways you always wished you could. Without any coding or intensive production works, their customers are from various industries such as Gap, Accenture, McGrawHill. The product has been used as a digital library for individual to read, study or explore; a space for business to public content and engage customers; an on-line training program for people to share, etc. It is absolutely unique, and has unlimited possibilities.
 
 ## Open Positions
-#### [Senior Infrastructure Engineer](https://github.com/the31337/inkling/blob/master/senior-infrastructure-engineer.md)
-#### [Senior Javascript Engineer](https://github.com/the31337/inkling/blob/master/senior-javascript-engineer.md)
-#### [Senior Product Manager](https://github.com/the31337/inkling/blob/master/senior-product-manager.md)
+##### [Senior Infrastructure Engineer](https://github.com/the31337/inkling/blob/master/senior-infrastructure-engineer.md)
+##### [Senior Javascript Engineer](https://github.com/the31337/inkling/blob/master/senior-javascript-engineer.md)
+##### [Senior Product Manager](https://github.com/the31337/inkling/blob/master/senior-product-manager.md)
 
 ## Location
 ![343 Sansome Street 8th Floor, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=55+francisco+st+san+francisco+ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C55+francisco+st+san+francisco+ca)  

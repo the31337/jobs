@@ -7,7 +7,7 @@ Aside from the many successes, SendGrid is building out an innovation team for t
 
 Founded in 2009 after graduating from the TechStars accelerator program, by 3 developers who were frustrated that their emails weren’t being delivered.  Developed a cloud based service/platform that solves the challenge of delivering emails.  
 
-## Open Positions
+## Current Openings
 #### [Associate Product Manager](https://github.com/the31337/jobs/blob/master/sendgrid/associate-product-manager.md)
 #### [Associate Software Engineer (Full Stack) (Labs)](https://github.com/the31337/jobs/blob/master/sendgrid/associate-software-engineer-full-stack–labs.md)
 #### [Manager of Software Engineering Platform](https://github.com/the31337/jobs/blob/master/sendgrid/manager-of-software-engineering-platform.md)
