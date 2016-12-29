@@ -4,17 +4,11 @@
 + [Platform Engineer(Python)- San Francisco](https://github.com/the31337/openings/blob/master/affirm-inc/platform-engineer-python.md)
 + [Site Reliability Engineer (SRE) (DevOps)](https://github.com/the31337/openings/blob/master/affirm-inc/site-reliability-engineer-sre-devops.md)
 + [Software Engineer - Full-Stack](https://github.com/the31337/openings/blob/master/affirm-inc/software-engineer-full-stack.md)
-
++ [Infrastructure Engineer Python](https://github.com/the31337/jobs/blob/master/affirm-inc/infrastructure-engineer-python.md)
++
 ## Anki
 ###### San Francisco, CA
 + [Software Engineer/Game Developer](https://github.com/the31337/openings/blob/master/anki/software-engineer-game-developer.md)
-
-## Applatix
-###### Sunnyvale, CA
-
-+ [Fullstack Architect](https://github.com/the31337/openings/blob/master/applatix/fullstack-architect.md)
-+ [Software Developer, DevOps](https://github.com/the31337/openings/blob/master/applatix/software-developer-devops.md)
-+ [UI Technical Lead](https://github.com/the31337/openings/blob/master/applatix/ui-technical-lead.md)
 
 ## Apteligent
 ###### San Francisco, CA
