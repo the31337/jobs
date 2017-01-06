@@ -5,7 +5,7 @@ Compology builds WasteOS: the only routing system built exclusively for the wast
 
 
 ## Open Positions
-#### [Senior Frontend Engineer](https://github.com/the31337/jobs/blob/master/compology/senior-frontend-engineer.md)
+
 
 ## Location
 ![2121 Harrison St, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C2121+Harrison+St,+San+Francisco,+CA)  
@@ -60,4 +60,4 @@ Coming soon...
 + ['Smart Garbage' Startup Cuts City Trash Costs by 40 Percent](http://www.govtech.com/civic/Smart-Garbage-Startup-Cuts-City-Trash-Costs-by-40-Percent.html)
 + [Mega Session: Smart Trucks: New Collection Technologies](https://www.youtube.com/watch?v=7gL__4shpPw)
 + [20 Awesome Smart Tech and IoT Startups To Watch](http://controlyourbuilding.com/blog/entry/20-awesome-smart-tech-and-iot-startups-to-watch)
-+ 
++
