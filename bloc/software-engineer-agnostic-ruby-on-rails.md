@@ -1,10 +1,10 @@
-# Software Engineer
-### San Francisco, CA
+## Software Engineer
+#### San Francisco, CA
 
-## Company Overview
+### Company Overview
 We're a small team of intellectually curious developers and designers who are passionate about learning and have created an online bootcamp for web and mobile development and design.  We recently secured our Series A and are looking for Software Engineers to join our team.    
 
-## Job Description
+### Job Description
 You’ll be a cornerstone of our team. You’ll have the opportunity to help solve each of the following problem categories:
 
 +	Platform-- the web application must scale to handle many new courses, hundreds of mentors, thousands of students, alumni, and more. It must be fast.
@@ -14,13 +14,13 @@ You’ll be a cornerstone of our team. You’ll have the opportunity to help sol
 +	Performance-- the platform and internal tools we rely on every day must be fast, and they must be robust enough to handle flexible usage patterns
 +	Open Source
 
-## Qualifications
+### Qualifications
 +	Have solid communication skills and the ability to translate an objective into a plan
 +	Have experience building and maintaining products with real-world usage
 +	Be comfortable writing well-structured, production-ready code
 +	Understand how to structure data in a way that makes regular analysis easy and flexible
 
-## Perks
+### Perks
 +	Competitive salary
 +	Generous benefits package
 +	Generous vacation policy
