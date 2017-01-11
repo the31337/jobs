@@ -12,13 +12,17 @@ It’s gorgeous. Blazingly fast. And comes with advanced features that give you 
 ![465 California St. #500, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=365+California+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C365+California+St,+San+Francisco,+CA)  
 
 ## Technologies
-+ Javascript
-+ React
-+ Go
++ Javascript (React)
++ HTML5 / SASS
++ ServiceWorkers
++ Webpack
++ IndexedDb
++ WebSQL
++ Golang
 + Postgres
-+ Html5
-+ Swift
-+ Objective-C
++ Redis
++ Docker
++ Kubernetes
 
 ## Team Size
 8 total.  Mostly engineers.
@@ -29,7 +33,7 @@ Led by First Round Capital (first VC in Uber, Square, etc), Jason Calacanis, Gar
 
 ## Benefits & Perks
 + Brand new SF office
-+ Up to 1% equity
++ Up to .5% equity
 + Flexible vacation
 + Catered lunch (5x per week)
 + $3k desk set up of your choice
