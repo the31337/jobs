@@ -23,7 +23,7 @@ Inkling was founded by Matt Macinnis in 2009, who graduated from Harvard and pre
 + ...Still researching.
 
 ## Team Size
-+ 160 employee including 40 engineers, broken out into 5 teams:
++ 160 employee including 45 engineers, broken out into 5 teams:
   + Web
   + Search Infrastructure
   + Workfloat
