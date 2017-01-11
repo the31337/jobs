@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🗑 Compology 🚚
 
 ## Overview
@@ -40,3 +41,6 @@ Coming soon...
 + [Angel List](https://angel.co/activehours/jobs/130981-senior-mobile-designer)
 ## News
 Coming soon...
+=======
+# Activehours
+>>>>>>> origin/master

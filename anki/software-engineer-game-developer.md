@@ -1,10 +1,10 @@
-# Software Engineer/Game Developer
-### San Francisco, CA
+## Software Engineer/Game Developer
+#### San Francisco, CA
 
-## Quick Summary
+### Quick Summary
 San Francisco based start up that is building innovative products with creative games and sophisticated AI is looking for a Game / Software Engineer that will be creating new features to promote user engagement with robotic toys and mobile apps. Working with designers and other software engineers to create episodic content, leaderboards, dynamic rewards, teams, match making, and more.
 
-## Qualifications
+### Qualifications
 +	Strong problem solving and analytical skills
 +	Exceptional software engineering and programming background, with experience developing in teams and keeping on schedule
 +	Comfortable with Agile methods and fast turnaround
