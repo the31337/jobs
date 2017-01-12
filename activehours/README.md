@@ -8,7 +8,7 @@ Activehours allows hourly workers to be paid for the hours they have worked befo
 ##### [Backend Engineer](https://github.com/the31337/activehours/blob/master/backend-engineer.md)
 
 ## Location
-![405 Waverly St, Palo Alto, CA](https://www.google.com/maps/place/405+Waverley+St,+Palo+Alto,+CA+94301/data=!4m2!3m1!1s0x808fbb38439e6c33:0xea9a3b40202ac353?sa=X&ved=0ahUKEwi169nGmLvRAhWrjlQKHZ24ClMQ8gEIGzAA)  
+![405 Waverly St, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=405+Waverly+St,+Palo+Alto,+Ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C405+Waverly+St,+Palo+Alto,+Ca)  
 
 ## Technologies
 + .net
