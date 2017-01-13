@@ -1,11 +1,11 @@
-# Director of Product Management - Email Marketing
-### Redwood City, CA
+## Director of Product Management - Email Marketing
+#### Redwood City, CA
 
-## Overview
+### Overview
 Founded in 2009, our company is an industry-disrupting, cloud-based customer communication platform that solves the challenges of reliably delivering emails on behalf of our customers. We deliver over 30 billion emails a month for customers like Airbnb, Spotify, and Uber.
 We are aggressively expanding into the Email Marketing space with a new product called Marketing Campaigns.  We’re seeking a talented and experienced Product leader to help us grow our Marketing Campaigns product into a dominant Email Marketing business.
 
-## What You’ll Do
+### What You’ll Do
 + Live by and champion our cultural values of Happy, Hungry, Honest, and Humble
 + Serve as a “general manager” for our emerging Marketing Campaigns product line, taking responsibility for the Marketing Campaigns P&L
 + Manage, motivate, and mentor a small team of Product Managers
@@ -14,7 +14,7 @@ We are aggressively expanding into the Email Marketing space with a new product 
 + Work cross-functionally to ensure products are successfully launched and achieve intended business goals
 + We're an agile, fast growing company and this job description isn't meant to be a complete list of your qualifications or all of the things you'll do
 
-## About You
+### About You
 + 10+ years of experience in Product Management with 4+ years of people management responsibility, preferably with one or more of these areas as a focus:
   + SaaS experience.  You understand how to drive a SaaS product product business to exponential growth.
   + Marketer-focused products.  You understand marketing email use cases and can think like a marketer.
@@ -26,7 +26,7 @@ We are aggressively expanding into the Email Marketing space with a new product 
 + Emotionally Intelligent - Recognize your own, and other people's emotions, to discriminate between different feelings and label them appropriately, and to use this to guide thinking and behavior.
 + Persuasive - Bring others to your point of view using logic, data, and emotion. Have a formal process and framework by which to make qualitative and quantitative points, not just using emotional appeals.
 
-## Bonus Points
+### Bonus Points
 + Technical acumen
 + M&A experience or financial analysis chops
 

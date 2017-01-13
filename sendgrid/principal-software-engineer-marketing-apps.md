@@ -1,12 +1,12 @@
-# Principal Software Engineer - Marketing Apps
-### Redwood City, CA
+## Principal Software Engineer - Marketing Apps
+#### Redwood City, CA
 
-## Overview
+### Overview
 Founded in 2009, our company is an industry-disrupting, cloud-based customer communication platform that solves the challenges of reliably delivering emails on behalf of our customers.  We deliver over 30 billion emails a month for customers like Airbnb, Spotify, and Uber.
 
 As a Principal Software Engineer, you will be responsible for building the products that enable our customers to manage the delivery of billions of emails a month in a secure and scalable way.  You will work on a small, versatile and passionate team, tackling new problems as we continue to push our technology forward. You will design, test, deploy and maintain software solutions that solve customers’ problems at-scale. You will have the opportunity to shape architectural solutions that enable the next generation of communications products at our company.
 
-## What you’ll do
+### What you’ll do
 +	Live by and champion our cultural values of Happy, Hungry, Honest, and Humble
 +	Work in a highly collaborative environment with Product and Business Stakeholders to build the next generation of company’s products
 +	Develop and maintain secure, high performance applications and services
@@ -20,7 +20,7 @@ As a Principal Software Engineer, you will be responsible for building the produ
 +	Lead cross-team efforts to design and architect next generation services and systems
 +	We're an agile, fast growing company and this job description isn't meant to be a complete list of your qualifications or all of the things you'll do
 
-## What you’ll need
+### What you’ll need
 +	BS in Computer Science, Engineering or other technical discipline
 +	9-12 plus years of relevant experience or equivalent combination of experience and education
 +	Expert level knowledge of Go, Java, or C/C++
@@ -39,12 +39,12 @@ As a Principal Software Engineer, you will be responsible for building the produ
 +	Focused - Achieve what they set out to do before launching new initiatives. Complete company-linked goals and tasks, not simply to be busy and active
 +	Collaborative - A keen ability to support cross-functional projects and decisions. Gets energized from working within a team and cross-functionally to achieve the company's goals
 
-## Bonus Points
+### Bonus Points
 +	Acts as a thought leader in the broader community
 +	NoSQL Solutions: Cassandra, DynamoDB, CouchDB, Riak
 +	Relational DBs: PostgreSQL, MySQl
 +	Experience building robust REST APIs in high traffic environments
 +	Experience mentoring and developing junior level engineers
 
-## Why us?
+### Why us?
 We are proud to be an equal opportunity employer. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, genetic information, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or Veteran status.

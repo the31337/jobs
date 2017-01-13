@@ -1,7 +1,7 @@
-# Manager of Software Engineering - Marketing Campaigns
-### Redwood City, CA
+## Manager of Software Engineering - Marketing Campaigns
+#### Redwood City, CA
 
-## The Pitch (About the role)
+### The Pitch (About the role)
 Founded in 2009, our company is an industry-disrupting, cloud-based customer communication platform that solves the challenges of reliably delivering emails on behalf of our customers. We deliver over 30 billion emails a month for customers like Airbnb, Spotify, and Uber.
 
 Our Manager of Software Engineering will be a dynamic and inspiring software product development leader with a passion for managing, mentorship, and influential leadership. The Manager of Software Engineering will grow and lead one of our talented engineering teams, facilitate Agile methodologies and
@@ -9,7 +9,7 @@ own, review and manage sprint planning in collaboration with executive staff and
 
 This role will focus on our next generation of marketing applications and tools. A successful candidate will love making complicated workflows seem remarkably easy and appealing to people who are not developers by trade. This is a full stack position, meaning a balance between frontend and backend technologies will be critical.
 
-## What You’ll Do (Job Responsibilities, prioritized most important to least important)
+### What You’ll Do (Job Responsibilities, prioritized most important to least important)
 + Live by and champion our cultural values of Happy, Hungry, Honest, and Humble
 + Successfully recruit, manage, motivate and mentor members of the software engineering organization
 + Apply best practices to lead development teams through design, development, testing, code reviews, and deployment of features and components
@@ -28,7 +28,7 @@ This role will focus on our next generation of marketing applications and tools.
 + Develop people within your teams towards career progression goals
 + We're an agile, fast growing company and this job description isn't meant to be a complete list of your qualifications or all the things you'll do
 
-## About You (Must Haves - characteristics or competencies the person in this role must have to be successful, prioritized most important to least important)
+### About You (Must Haves - characteristics or competencies the person in this role must have to be successful, prioritized most important to least important)
 + BS in Computer Science, Engineering or other technical discipline
 + 7+ years of relevant experience or equivalent combination of experience and education
 + At least 1 year of people management responsibility
@@ -60,7 +60,7 @@ This role will focus on our next generation of marketing applications and tools.
 + Focused - Achieve what they set out to do before launching new initiatives. Complete company-linked goals and tasks, not simply to be busy and active
 + Collaborative - A keen ability to support cross-functional projects and decisions. Gets energized from working within a team and cross-functionally to achieve the company's goals
 
-## Bonus Points ​(Nice to Haves - characteristics or competencies that would aid the person in this role, but are not necessarily critical to have; think of this as a wish list.)
+### Bonus Points ​(Nice to Haves - characteristics or competencies that would aid the person in this role, but are not necessarily critical to have; think of this as a wish list.)
 + Direct experience with Email Marketing (e.g., Salesforce Marketing Cloud - Previously ExactTarget, Responsys - now part of Oracle, etc.)
 + Relevant experience with Distributed systems (Multi-DC, Cloud Infrastructure)
 + Search Expert, Search at Scale (Solr, AWS CloudSearch)

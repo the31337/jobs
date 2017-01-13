@@ -1,10 +1,10 @@
-# Senior Product Manager – Labs
-### Redwood City, CA
+## Senior Product Manager – Labs
+#### Redwood City, CA
 
-## Quick Summary
+### Quick Summary
 As a product manager in you will work on a small, cross functional, nimble and dynamic team, validating new products that expand our market opportunities. You will focus on all aspects of new product development from ideation, problem and solution validation, prototyping and testing. You will have the opportunity to engage with users, identify problems, and architect solutions to test product hypothesis. Ultimately, you will think strategically about existing and new markets and bridge business and technology to deliver solutions that enable us to achieve our goal of simplifying communication between businesses and their customers.
 
-## Job Description
+### Job Description
 +	Live by and champion our cultural values of Happy, Hungry, Honest, and Humble
 +	Master an effective process of problem validation through solution validation
 +	Actively participate in the ideation, problem, and solution validation process to identify strategic product initiatives
@@ -20,7 +20,7 @@ As a product manager in you will work on a small, cross functional, nimble and d
 +	Support the collection, organization and synthesis of experiment insights
 +	We’re an agile, fast growing company and this job description isn’t meant to be a complete list of your qualifications or all of the things you’ll do
 
-## Qualifications
+### Qualifications
 +	BS or MS in Computer Science, related technical discipline, or relevant work experience
 +	10+ years of overall product management experience
 +	5+ years experience in sr. individual contributor or manager roles
