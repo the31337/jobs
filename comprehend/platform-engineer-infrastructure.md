@@ -1,12 +1,12 @@
-# Platform Engineer (Infrastructure)
-### Redwood City, CA
+## Platform Engineer (Infrastructure)
+#### Redwood City, CA
 
-## Quick Summary
+### Quick Summary
 We’re a Software as a Service (SaaS) solution for life sciences companies running clinical trials. With minimal deployment timelines or staff involvement, this cloud solution maximizes IT investments and helps life sciences companies to stay competitive.
 
 In your role as a Platform Engineer  you will report directly to the Senior Platform Engineer, and will work closely with members of other teams to support the infrastructure and employees that are behind our application.
 
-## Job Description
+### Job Description
 +	Introduces changes to infrastructure configurations
    +	Creates and modifies Ansible playbooks
    +	Configures load balancers, SSL proxies, DNS servers, SFTP servers
