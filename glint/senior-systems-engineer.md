@@ -1,13 +1,13 @@
-# Senior Systems Engineer
-### Redwood City, CA
+## Senior Systems Engineer
+#### Redwood City, CA
 
-## Quick Summary
+### Quick Summary
 We’re an early-stage, VC-funded software startup backed by investors such as Norwest Venture Partners, Shasta Ventures, Evan Williams (Twitter) and Geoff Ralston (Y Combinator). Its leaders are seasoned entrepreneurs with a track record of building and growing highly successful companies such as Turn, Success Factors, Jaspersoft, Glassdoor, & Accolade.
 
-## Job Description
+### Job Description
 We are looking for a superb systems engineer, reporting to the CTO. This is a hands-on role that encompasses several key areas such as scalability, performance and security.
 
-## Qualifications
+### Qualifications
 + strong in Java
 + strong in concurrent programming
 + experiences with distributed systems, scalability and fault tolerance
@@ -20,7 +20,7 @@ We are looking for a superb systems engineer, reporting to the CTO. This is a ha
 + 3+ years of industrial experienceweb services and security
 + BS in CS or related field
 
-## Perks
+### Perks
 + Competitive compensation and full benefits including healthcare, life insurance, vacation and 401K.
 + Early stage equity
 + Catered lunches and flexible work arrangements
