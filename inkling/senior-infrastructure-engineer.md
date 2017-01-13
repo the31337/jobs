@@ -1,12 +1,12 @@
-# Sr. Infrastructure Engineer
-### San Francisco, CA
+## Sr. Infrastructure Engineer
+#### San Francisco, CA
 
-## Quick Summary
+### Quick Summary
 We’re transforming the way business-critical information is shared in enterprises. We provide the most efficient path to communicate knowledge directly from subject matter experts to their end users through an end-to-end cloud content platform. Move beyond PDFs and Powerpoints!
 
 We’re seamlessly integrates complex client software with backend services that make our experience simple and reliable, and it all relies on a robust and scalable backend infrastructure. The Senior Infrastructure Engineer will help us tackle tough and unique technical challenges to build infrastructure that out customers can rely on.
 
-## Job Description
+### Job Description
 +	Build and manage a cloud-based infrastructure that powers all our products
 +	Develop and integrate tools to provide better application, performance, and environment visibility
 +	Collaborate closely with other engineers to design and deploy new products, and solve problems
@@ -14,7 +14,7 @@ We’re seamlessly integrates complex client software with backend services that
 +	Join a production on-call rotation
 +	Develop elastic solutions that scale with our user base
 
-## Qualifications
+### Qualifications
 +	5-10+ years of software engineering experience
 +	A Bachelor’s degree or above in Computer Science or significant prior software engineering experience.
 +	Effective collaboration, communication, and documentation

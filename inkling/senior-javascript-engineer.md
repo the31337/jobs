@@ -1,7 +1,7 @@
-# Javascript Engineer
+## Javascript Engineer
 #### San Francisco, CA
 
-## What we’re looking for in candidates:
+### What we’re looking for in candidates:
 - A Bachelor’s degree or above in Computer Science or significant prior software engineering experience.
 - 4+ years of hands-on experience building JavaScript web applications.
 - A rock solid understanding of the JavaScript language, JavaScript browser APIs, HTML5, and CSS.
@@ -12,7 +12,7 @@
 - Strong communication skills and the ability to coordinate well with our product, design and other engineering teams.
 - And most importantly, a passion for creating excellent user experiences that our customers will love.
 
-## Join an incredible team and enjoy:
+### Join an incredible team and enjoy:
 - Unlimited PTO, work hard, play hard
 - Lunch & Dinner served every day!
 - Wellness reimbursement (monthly)
