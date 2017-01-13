@@ -1,10 +1,10 @@
-# Embedded Systems Engineer
-### Menlo Park, CA
+## Embedded Systems Engineer
+#### Menlo Park, CA
 
-## Job Description:
+### Job Description:
 As an Embedded Systems Engineer, you will work with members of a multidisciplinary product development team to design and implement custom embedded firmware for our various robotic systems. Our platform connects components together with a mix of standards and protocols, like CAN and i2c, as well as custom serial protocols.
 
-## Qualifications:
+### Qualifications:
 +	5+ years experience developing embedded firmware and general software tools
 +	Experience with system design involving robotic technology components
 +	Experience writing embedded firmware in a resource-constrained environment
