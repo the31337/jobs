@@ -1,12 +1,12 @@
-# Software Engineer, Platform
-### San Francisco, CA
+## Software Engineer, Platform
+#### San Francisco, CA
 
-## Quick Summary
+### Quick Summary
 PIX System is a growing San Francisco company providing industry-leading secure collaboration products
 serving the entertainment industry, including major film studios, production companies, and creative talent. We
 are also a team of talented, cooperative individuals who enjoy our work and the people we work with.
 
-## What Will You Do?
+### What Will You Do?
 As a member of the Platform Team, you’ll be creating and extending the PIX platform that powers collaboration
 across the film industry. This includes building and extending back-end services for media processing,
 storage, encryption, and secure delivery worldwide to thousands of industry professionals. You will be tackling
@@ -14,7 +14,7 @@ complex problems ranging from low-level video processing to high level APIs and 
 engineers must work cross-functionally on multiple codebases and services to ensure the PIX platform is
 scalable, efficient, and secure.
 
-## Responsibilities
+### Responsibilities
 + Design, implement, and maintain PIX System platform services
 + Build distributed services that auto-scale, self-heal, and automatically deploy to the cloud
 + Integrate internal and 3rd party components to build out functionality
@@ -43,7 +43,7 @@ Requirements
 + AWS and cloud technologies
 + Docker, Vagrant, Chef, and other DevOps tools
 
-## Benefits
+### Benefits
 + Competitive salary and bonus program
 + Exceptional vacation and holiday plan
 + Very competitive medical benefits

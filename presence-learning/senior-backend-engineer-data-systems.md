@@ -1,13 +1,13 @@
-# Sr. Backend Engineer, Data Systems
-### San Francisco, CA
+## Sr. Backend Engineer, Data Systems
+#### San Francisco, CA
 
-## Description
+### Description
 Talent is such an overused word but rightly so: people drive success. We see this every day and work hard to ensure we have a great team that is engaged, learning, and feels connected to their work and to their colleagues. We rank 8th on Glassdoor among companies with under 1,000 employees, and were the 6th fastest growing company in San Francisco on last year’s Inc 500 list. We are looking for a superlative Sr. Backend Engineer, Data Systems to help lead the continued growth of our team.
 
-## Why is this role important?
+### Why is this role important?
 As the growth of our marketplace has accelerated, our need for sophisticated data systems has grown dramatically. We want to empower our team with the data we need to better understand our customers, our business, and ultimately make better data-driven decisions. The Data Engineer will work across the organization to discover new opportunities for growth and optimization, experiment with data, define our data architecture, and design and build complex data systems that provide actionable, impactful insights.
 
-## What will you do at our company?
+### What will you do at our company?
 +	Work with engineering to define our data infrastructure roadmap and architecture
 +	Design, architect, and develop a data pipeline which includes data warehousing, scalable data integration, ETL processing, and reporting logic for data analysis and visualization systems
 +	Establish practices and tools to ensure data integrity, cleanup, and validation across all data sources in the data pipeline
@@ -17,7 +17,7 @@ As the growth of our marketplace has accelerated, our need for sophisticated dat
 +	Analyze our marketplace supply and demand data to build a forecasting model
 +	Use experimentation methods and tests to help optimize key user experiences
 
-## What are we looking for?
+### What are we looking for?
 +	B.S. or higher in Computer Science, Engineering, or equivalent experience
 +	4+ years of deep expertise in Python or your favorite dynamic programming language
 +	Experience building an ETL solution using Python frameworks (Luigi, Airflow, etc.)
@@ -29,5 +29,5 @@ As the growth of our marketplace has accelerated, our need for sophisticated dat
 +	Work well autonomously, as well as with a cross-functional team
 +	A startup-person: hands-on, proactive, sees their role as more than just a job
 
-## Where is this position located?
+### Where is this position located?
 This role is based in our San Francisco, CA headquarters, and reports to our VP of Engineering.
