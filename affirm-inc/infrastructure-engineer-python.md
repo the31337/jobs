@@ -1,16 +1,16 @@
-# Infrastructure Engineer (Python)
-### San Francisco, CA
+## Infrastructure Engineer (Python)
+#### San Francisco, CA
 
-## Quick Summary
+### Quick Summary
 We love our infrastructure because it's the backbone of our company and allows us to be efficient and nimble. We're looking for an outstanding software engineer who will work on various infrastructure tools that will vastly increase the efficiency of the engineering team and make our developers' lives happier.
 
-## Job Description
+### Job Description
 +	Build tools to enable the automation of server provision/deployment
 +	Build tools for monitoring and alerting
 +	Coordinate with QA/release management to build code deployment tools that integrate with our test automation and continuous integration services.
 +	Research and evaluate new and emerging backend technologies
 
-## Qualifications
+### Qualifications
 +	Passion and drive to change consumer banking for the better
 +	Expert knowledge in a dynamically typed language--we primarily use Python, but members of our team have backgrounds in a wide range of technologie
 +	Expert knowledge of Salt (or Chef or Puppet)

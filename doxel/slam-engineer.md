@@ -1,11 +1,11 @@
-# SLAM Engineer
-### Menlo Park, CA
+## SLAM Engineer
+#### Menlo Park, CA
 
-## Quick Summary
+### Quick Summary
 We are looking for a SLAM engineer who would help build and improve our LIDAR based mapping engine.
 Your background should ideally include experience with either laser based SLAM or 3D Visual SLAM. You will create tools to benchmark and optimize the accuracy and speed of our mapping pipeline. The mapping engine will be the core of our product and your work will be directly responsible for creating value for our customers.
 
-## Required qualifications
+### Required qualifications
 + Strong experience with machine vision
 + Experience with pose estimation, probabilistic filtering and sensor fusion
 + Strong background in mathematics and algorithms
@@ -14,10 +14,10 @@ Your background should ideally include experience with either laser based SLAM o
 + Experience with ROS
 + Bleeding edge knowledge of current research and ability to comprehend relevant publications
 
-## Bonus:
+### Bonus:
 + Experience with CUDA
 
-## Why us?
+### Why us?
 + We're funded and advised by some of the best in Silicon Valley
 + You'd be getting in on the ground floor of a company that's taking off
 + We're a small team and you'd be able to make a major contribution to

@@ -21,10 +21,10 @@ Compology builds WasteOS: the only routing system built exclusively for the wast
 Team of 11 – 2 on the business side, 2 data entry, Product Manager, 2 hardware engineers, 4 software engineers.
 
 ## Funding
-Funding Rounds (3) - $7.53M
-pr, 2016	$7M / Series A
-Mar, 2016	undisclosed amount
-Apr, 2014	$525k / Debt Financing
++ Funding Rounds (3) - $7.53M
++ Apr, 2016	$7M / Series A
++ Mar, 2016	undisclosed amount
++ Apr, 2014	$525k / Debt Financing
 
 ## Benefits & Perks
 Coming soon...
