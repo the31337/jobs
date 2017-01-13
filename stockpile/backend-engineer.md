@@ -1,15 +1,14 @@
-# Backend Engineer
-### Palo Alto, CA
+## Backend Engineer
+#### Palo Alto, CA
 
-## Quick Summary
+### Quick Summary
 Introducing the world’s first gift card for stock! For the first time ever, you can buy $25, $50, and $100 gift cards off the gift card rack at stores like OfficeMax, K-Mart, Safeway, and ToysRUs, or send e-gifts up to $1000 from our website or mobile app. You can also buy fractional shares of stock for yourself, and soon, you’ll be able to redeem rewards points for stock and much more!
 
 Our mission is to democratize stock ownership. 86% of the population has never had a chance to own stock because it’s intimidating and expensive, but it doesn’t have to be that way! We’ve broken down the barriers to stock ownership by building our own fractional shares platform and partnering with Fortune 500 companies to bring the stock market to you, whether you’re grocery shopping or doing your mobile banking. We’re also partnering with nonprofits to promote financial literacy and empowerment so anyone around the world, of any age or income level, can invest for their future.
 
 Based in Palo Alto, we’re a venture-backed, and our team comes from companies like Facebook, PayPal, and E*Trade. We’ve been featured in the Wall Street Journal, CNBC, Consumer Reports, and many others. We’re building a team of exceptionally talented people to join us on our mission, and would love to talk to you!
 
-
-## Job Description
+### Job Description
 +	Design, implement, test and maintain backend components: application, data, infrastructure, analytics and deployment
 +	Design and build systems with automated instrumentation and monitoring
 +	Design and Implement RESTful APIs for our merchants
@@ -17,7 +16,7 @@ Based in Palo Alto, we’re a venture-backed, and our team comes from companies 
 +	Consistently improve maintainability and stability of the codebase
 +	Identify and resolve performance and Scalability issues
 
-## Qualifications
+### Qualifications
 +	Passion and drive to change financial investing for the better
 +	Experience with Java or any other backend language (such as C, C++, C#)
 +	Experience with MySql or any other online data stores.

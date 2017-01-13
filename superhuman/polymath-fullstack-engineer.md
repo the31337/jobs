@@ -1,4 +1,4 @@
-# Polymath Fullstack Engineer
+## Polymath Fullstack Engineer
 #### San Francisco, CA
 
 ### Quick Summary
@@ -12,7 +12,6 @@ We are funded by all-star investors including First Round Capital, Gary Vaynerch
 +  4th Full Stack Engineer on our Founding Team
 +  Build the world's fastest email experience
 +  Delight and empower millions of users with experiences they could never imagine
-
 
 ### Qualifications
 +  Deep front-end, browser-based experience
