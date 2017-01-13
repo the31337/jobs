@@ -1,7 +1,7 @@
-# Senior Engineer, Full Stack
-### San Francisco, CA
+## Senior Engineer, Full Stack
+#### San Francisco, CA
 
-## Quick Summary
+### Quick Summary
 We’re looking for Senior Full Stack Engineers to help design, build, test and operate the full stack from database through web application tier and user interface. We’re changing the world of data connectivity. Our technology unites the marketing technology ecosystem, enabling brands to measure the impact of digital marketing on sales and deliver highly relevant messages to consumers on virtually any channel or device.
 
 As a Senior Full Stack Engineer, you’ll be responsible for helping bring the vision to life. You’ll collaborate with other engineers to execute on a diverse range of projects. You should appreciate the challenge of working on sophisticated data processing systems and enjoy designing ways to turn data into valuable information.
@@ -9,7 +9,7 @@ As a Senior Full Stack Engineer, you’ll be responsible for helping bring the v
 On the engineering team we value ownership and individual contribution within a collaborative environment. Be ready to leave your ego at the door, roll up your sleeves and start solving huge challenges as soon as you begin.
 
 
-## Job Description
+### Job Description
 +	Work with our tech stack of to help design, code, test and operate the full stack.
 +	Translate customer and product requirements into technical designs and implementation.
 +	Build highly performing web applications that interact with large data sets.
@@ -18,7 +18,7 @@ On the engineering team we value ownership and individual contribution within a 
 +	Push your teammates to be stronger engineers. They will do the same to you.
 +	Take our engineering, business development and culture in a whole new direction during one of our four Hackweeks every year.
 
-## Qualifications
+### Qualifications
 +	Have 3+ years of experience writing and deploying production code.
 +	Have expertise in web development technologies such as Rails, Backbone.js or React or the brains and brawn to become an expert.
 +	Enjoy building scalable and reliable web applications.
