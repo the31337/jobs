@@ -1,4 +1,4 @@
-## Sr. Infrastructure Engineer
+## Senior Infrastructure Engineer
 #### San Francisco, CA
 
 ### Quick Summary
