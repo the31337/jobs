@@ -1,7 +1,7 @@
-# Senior Full-stack Engineer
-### San Mateo, California
+## Senior Full-stack Engineer
+#### San Mateo, California
 
-## Overview
+### Overview
 Snowflake is reinventing the data warehouse, enabling companies to bring together all users, all
 data, and all workloads in a single elastic cloud service. We are a team of professionals with a
 mission to safely store, transform, and analyze business data, making it easy for all companies to
@@ -10,14 +10,14 @@ As Snowflake grows, we are hiring a Senior Product Engineer​ to join us and he
 with delightful experiences while meeting the complex needs of large scale data management,
 security and scale.
 
-## Responsibilities:
+### Responsibilities:
 + Understand the entire stack and deliver end-to-end projects focused on the end customer.
 + Collaborate with design, product management and other software engineers to deliver
 compelling user-facing features
 + Identify and resolve performance and scalability issues, make complex areas easily
 accessible to customers and help make product trade-offs.
 
-## We are looking for someone with:
+### We are looking for someone with:
 + 5+ years of software development experience
 + Full-stack of front-end experience delivering product features in a consumer of Enterprise
 SaaS company.
@@ -27,7 +27,7 @@ SaaS company.
 performance and scale.
 + B.S. or M.S. in Computer Science or equivalent
 
-## Why join the engineering team at Snowflake?
+### Why join the engineering team at Snowflake?
 + Building new enterprise technologies is complex, and our engineering team surmounts the
 obstacles. As a member of our team, you will:
 + Build an industry-leading data management system that customers love

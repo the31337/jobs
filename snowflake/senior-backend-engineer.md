@@ -1,7 +1,7 @@
-# Senior Product Engineer
-### San Mateo, California
+## Senior Product Engineer
+#### San Mateo, California
 
-## Overview
+### Overview
 Snowflake is reinventing the data warehouse, enabling companies to bring together all users, all
 data, and all workloads in a single elastic cloud service. We are a team of professionals with a
 mission to safely store, transform, and analyze business data, making it easy for all companies to
@@ -12,7 +12,7 @@ Services team works to solve complex problems involving distributed systems, ser
 architectures, data encryption, metadata storage, cloud infrastructure, and more. This role is
 responsible for ensuring the continued success of our core infrastructure.
 
-## Responsibilities:
+### Responsibilities:
 + Design and implement a complex, distributed platforms for storing data, scaling parallel
 algorithms, etc.
 + Analyze fault-tolerance and high availability issues, performance and scale challenges, and
@@ -22,7 +22,7 @@ meet the demands of rapidly growing services.
 + Ensure operational readiness of the services and meet the commitments to our customers
 regarding availability and performance.
 
-## We are looking for someone with:
+### We are looking for someone with:
 + 5+ years industry experience designing, building and supporting large scale systems in
 production
 + Experience building large scale distributed fault tolerant services
@@ -32,13 +32,13 @@ memory management, networking and storage, performance and scale.
 + Fluency in Java or C++ preferred.
 + Able to work on-site in our downtown San Mateo office
 
-## Bonus points
+### Bonus points
 + Experience Implementing multi-tenant systems, with focus on isolation and security
 + Experience designing and implementing systems for public or private clouds
 + Familiarity with optimizing performance and resource management in Java systems
 + Advanced degree in Computer Science or related
 
-## Why join the engineering team at Snowflake?
+### Why join the engineering team at Snowflake?
 + Building new enterprise technologies is complex, and our engineering team surmounts the
 obstacles. As a member of our team, you will:
 + Build an industry-leading data management system that customers love

@@ -1,7 +1,7 @@
-# Senior Full-stack Engineer
-### San Mateo, California
+## Senior Full-stack Engineer
+#### San Mateo, California
 
-## Overview
+### Overview
 Snowflake is reinventing the data warehouse, enabling companies to bring together all users, all
 data, and all workloads in a single elastic cloud service. We are a team of professionals with a
 mission to safely store, transform, and analyze business data, making it easy for all companies to
@@ -12,7 +12,7 @@ builds the core query optimization and distributed query and data processing com
 the heart of the Snowflake product. This role is a unique opportunity to make a significant impact to
 our elastic, large scale, high-performance computing environment.
 
-## Responsibilities:
+### Responsibilities:
 + Identify and implement novel query optimization or distributed data processing algorithms
 which allow Snowflake to provide industry leading data warehousing capabilities.
 + Analyze and understand performance and scalability bottlenecks in the system and solve
@@ -26,7 +26,7 @@ management, all the way down to highly specialized vectorized execution.
 + Evaluate and determine priorities with a critical understanding of where performance matters
 and where performance is irrelevant
 
-## We are looking for someone with:
+### We are looking for someone with:
 + 5+ years hands-on software engineering experience
 + Background in database internals or large scale data processing systems (like Hadoop,
 Spark) especially query processing and/or optimization
@@ -41,7 +41,7 @@ Columnar Databases, etc.)
 + Track record working with data from multiple sources
 + BS in Computer Science; MS or PhD Preferred
 
-## Why join the engineering team at Snowflake?
+### Why join the engineering team at Snowflake?
 + Building new enterprise technologies is complex, and our engineering team surmounts the
 obstacles. As a member of our team, you will:
 + Build an industry-leading data management system that customers love
