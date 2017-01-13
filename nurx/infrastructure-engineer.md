@@ -1,12 +1,12 @@
-# Infrastructure Engineer
-### San Francisco, CA
+## Infrastructure Engineer
+#### San Francisco, CA
 
-## Quick Summary
+### Quick Summary
 We are building our founding engineering team! Our company is creating a new way of practicing healthcare by reducing barriers to access and giving users control over their own healthcare experience. We are developing an efficient and user centric platform that is providing a new approach to healthcare.
 
 This an exciting time at our company as our site is young and there is a lot to build! You will be shaping a new healthcare experience by creating the backbone of our company.
 
-## Required qualifications
+### Required qualifications
 +	Experience with AWS and managing tools postgres, splunk, and redis
 +	Subject matter expertise on architecture, authentication, and systems security
 +	Security experience including assessments of servers and networks against exploitation
