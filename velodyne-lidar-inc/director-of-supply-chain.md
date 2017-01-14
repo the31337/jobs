@@ -1,13 +1,13 @@
-# Director of Supply Chain
-### Morgan Hill, CA
+## Director of Supply Chain
+#### Morgan Hill, CA
 
-## Introduction
+### Introduction
 We are exploding in size as the company is aiming to bring our technology for self-driving cars to the market as soon as 2020. Our company is gearing up for mass production now! Help our team during this exciting time!
 
-## Job Summary
+### Job Summary
 The Director of Supply Chain will develop and manage the Supply Chain function required which includes Purchasing, Planning, Inventory Management, and Inbound/Outbound Logistics. Responsible for the source selection, creation of major sub-contracts and procurement during the engineering development and production phases. Oversee supplier delivery and quality performance requirements throughout the business execution plan. Lead and manage the day-to-day activities associated with establishing and administering major procurements with suppliers and direct all negotiations of major procurements. The incumbent must be a self-starter who is comfortable working in a dynamic team-based environment.
 
-## Job Responsibilities
+### Job Responsibilities
 +	The Director of Supply Chain will have responsibility for strategy development and deployment, supplier relationship and performance management, total cost management and supply chain execution.
 +	Establish and maintain relationships with key organizational leaders and stakeholders across multiple regions and functional departments
 +	Provide leadership and mentor-ship as well as establish development plans for managers, analysts, and other staff in the materials function group.
@@ -16,7 +16,7 @@ The Director of Supply Chain will develop and manage the Supply Chain function r
 +	Understand end to end business goals and anticipate and mitigate global supply related issues that may prevent these goals being achieved
 +	Capture and report on key performance indicators for Strategic Supply using enterprise data, information and reporting mechanisms
 
-## Job Requirements
+### Job Requirements
 +	Must have a minimum of 10 years work related experience in a related field
 +	MS Office Excel, PowerPoint, SAP or related ERP experience
 +	Manufacturing and/or Distribution and Logistics experience
@@ -25,5 +25,5 @@ The Director of Supply Chain will develop and manage the Supply Chain function r
 +	Deep knowledge of global economics and impact on our company
 +	Lean Manufacturing experience
 
-## Education Requirements
+### Education Requirements
 +	Bachelor degree in Engineering with Industrial focus or Business with a concentration in Supply Chain Management, Logistics, Material Management, or related field

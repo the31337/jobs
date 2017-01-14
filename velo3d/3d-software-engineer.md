@@ -1,5 +1,5 @@
-# 3D Software Engineer
-### Campbell, CA
+## 3D Software Engineer
+#### Campbell, CA
 
 Series A generously funded by top VC firms company is looking for a 3D Software Engineer to join their small growing team in Campbell, CA, and to work on a disruptive 3D printing on metals technology.
 
@@ -8,7 +8,7 @@ Your responsibilities will include working on Geometric Information Systems prob
 +	Troubleshoot software, hardware and system issues and provide technical support
 The team is looking for a self-starter that enjoys working in a highly dynamic startup environment.  You will enjoy small company atmosphere and excellent benefits including healthcare coverage and 401(K) matching.
 
-## Qualifications:
+### Qualifications:
 +	Strong desire to work for a startup company and make it a success.
 +	Solid background in Computational Geometry, 2D and 3D
 +	Outstanding experience in complex algorithms development
@@ -17,7 +17,7 @@ The team is looking for a self-starter that enjoys working in a highly dynamic s
 +	Demonstrated ability to communicate effectively with both technical and non-technical individuals; strong teamwork and interpersonal skills
 +	Bachelor's or Master's degree in Computer Science or equivalent experience in related field(s)
 
-## Pluses:
+### Pluses:
 +	Strong expertise in Geometric Information Systems (GIS).
 +	Solid understanding and experience with software control applications for capital equipment.
 +	Background in signal and image processing.

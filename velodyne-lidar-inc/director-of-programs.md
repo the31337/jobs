@@ -1,12 +1,12 @@
-# Director of Programs
-### Morgan Hill, CA
+## Director of Programs
+#### Morgan Hill, CA
 
-## Quick Summary
+### Quick Summary
 We’re exploding in size as the company is aiming to bring our technology for self-driving cars to the market as soon as 2020. We’re gearing up for mass production now! Help our team during this exciting time!
 
 Lead the product development of complex sensors for automotive, mapping, drone, security and a variety of other applications.
 
-## Qualifications
+### Qualifications
 +	Product development engineering in fast moving industries
 +	A track record of on-time unique product launches
 +	Project and team management
