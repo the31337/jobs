@@ -1,10 +1,10 @@
-# Rails Engineer
-### San Francisco, CA
+## Rails Engineer
+#### San Francisco, CA
 
-## Quick Summary
+### Quick Summary
 As a Ruby on Rails Engineer here you'll be a major contributor to our  e-commerce front end, backend systems, and APIs. You'll build APIs to support our mobile applications and admin tools, and work on underlying model layer that powers those APIs. The person in this role will own critical systems throughout the platform and be responsible for their performance, adding new, valuable features, and ensuring that these systems perform correctly.
 
-## Job Description
+### Job Description
 +	Develop new features throughout the platform, and maintain and enhance existing behavior.
 +	Help define and implement the system's APIs, to support our suite of mobile applications.
 +	Take ownership of key components, ensuring that they meet the needs of the business
@@ -13,7 +13,7 @@ As a Ruby on Rails Engineer here you'll be a major contributor to our  e-commerc
 +	Work to make us an innovator in the space by bringing passion and new ideas to work every day.
 +	Reports to: VP of Engineering
 
-## Qualifications
+### Qualifications
 +	A degree in computer science/engineering with a minimum of 2-4 years of software development with Ruby on Rails
 +	Fluency in the Ruby language, including familiarity with the language's meta programming features.
 +	Experience writing applications using Test Driven Development with RSpec.
