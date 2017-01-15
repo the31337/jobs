@@ -3,9 +3,43 @@
 ## Overview
 Affirm is an SF financial tech start-up that is headed by Max Levchin (PayPal Mafia, Slide acquired by Google in '10). With a $275MM Series B, they are focused on remaking consumer finance by providing loans to consumers for point of sale transactions. This enables consumers to pay over time by picking a loan that fits consumers budget and payment timeline (i.e.: 3-12 months). A few well known consumer-focused start-ups, such as The RealReal and Casper, have implemented Affirm's revolutionary check out and financing platform.
 
-## Current Openings
-##### [Infrastructure Engineer (Python)](https://github.com/the31337/jobs/blob/master/affirm-inc/infrastructure-engineer-python.md)
-##### [Platform Engineer (Python)](https://github.com/the31337/jobs/blob/master/affirm-inc/platform-engineer-python.md)
-##### [Senior Software Engineer - Android](https://github.com/the31337/jobs/blob/master/affirm-inc/senior-software-engineer-android.md)
-##### [Site Reliability Engineer (SRE) (DevOps)](https://github.com/the31337/jobs/blob/master/affirm-inc/site-reliability-engineer-sre-devops.md)
-##### [Software Engineer - Full-Stack](https://github.com/the31337/jobs/blob/master/affirm-inc/software-engineer-full-stack.md)
+## Open Positions
+#### [Senior Android Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/senior-software-engineer-android.md)
+#### [Platform Engineer (Python)](https://github.com/the31337/jobs/blob/master/affirm-inc/platform-engineer-python.md)
+#### [Site Reliability Engineer (SRE) (DevOps)](https://github.com/the31337/jobs/blob/master/affirm-inc/site-reliability-engineer-sre-devops.md)
+#### [Software Engineer - Full-Stack](https://github.com/the31337/jobs/blob/master/affirm-inc/software-engineer-full-stack.md)
+#### [Infrastructure Engineer (Python)](https://github.com/the31337/jobs/blob/master/affirm-inc/infrastructure-engineer-python.md)
+#### [Machine Learning Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/software-engineer-machine-learning.md)
+
+## Location
+![633 Folsom St, 7th Floor, CA](https://maps.googleapis.com/maps/api/staticmap?center=633+Folsom+St,+7th+Floor&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+
+## Technologies
+Coming soon...
+
+## Team Size
+Coming soon...
+
+## Funding
+Funding Rounds (3) - $420M
++ Oct, 2016 $100M / Debt. Financing
++ Apr, 2016 $100M / Series D
++ May, 2015	$275M / Series B
++ Jun, 2014	$45M / Series A
+
+## Benefits & Perks
+Coming soon...
+
+## Good To Know
+Coming soon...
+
+## Interview Process
+Coming soon...
+
+## On The Web
++ [Website](http://affirm.com)
++ [Crunchbase](https://www.crunchbase.com/organization/affirm#/entity)
++ [Angel List](https://angel.co/affirm)
+
+## News
+Coming soon...
