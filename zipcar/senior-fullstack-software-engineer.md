@@ -1,4 +1,4 @@
-## Senior Full-Stack Software Engineer
+## Senior Fullstack Software Engineer
 #### San Mateo, CA
 
 ### Overview

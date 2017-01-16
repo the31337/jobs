@@ -1,4 +1,4 @@
-## Front End Lead
+## Frontend Lead
 #### San Francisco, CA
 
 ### Quick Summary

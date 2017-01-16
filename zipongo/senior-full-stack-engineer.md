@@ -1,4 +1,4 @@
-## Senior Full-stack Engineer
+## Senior Fullstack Engineer
 #### San Francisco, CA
 
 ### Company Overview

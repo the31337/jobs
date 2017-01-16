@@ -1,4 +1,4 @@
-## Full-Stack Engineer
+## Fullstack Engineer
 #### San Francisco, CA
 
 ### Quick Summary

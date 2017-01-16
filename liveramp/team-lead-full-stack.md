@@ -1,4 +1,4 @@
-## Team Lead, Full Stack
+## Team Lead, Fullstack
 #### San Francisco, CA
 
 ### Quick Summary

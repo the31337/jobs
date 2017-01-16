@@ -1,4 +1,4 @@
-## Software Engineer - Full-Stack
+## Software Engineer - Fullstack
 #### San Francisco, CA
 
 ### Quick Summary

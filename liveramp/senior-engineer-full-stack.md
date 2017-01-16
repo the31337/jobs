@@ -1,4 +1,4 @@
-## Senior Engineer, Full Stack
+## Senior Engineer, Fullstack
 #### San Francisco, CA
 
 ### Quick Summary

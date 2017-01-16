@@ -1,4 +1,4 @@
-## Senior Back-end Software Engineer
+## Senior Backend Software Engineer
 #### San Mateo, CA
 
 ### Overview

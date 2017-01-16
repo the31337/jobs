@@ -1,4 +1,4 @@
-## Full-Stack Engineer
+## Fullstack Engineer
 ##### San Francisco, CA
 
 Our mission is building the impossible: a next-gen communications platform to make professional communications as rich, interactive, and developer-friendly as the web. We’re looking for talented full-stack engineers to join our in this mission.  

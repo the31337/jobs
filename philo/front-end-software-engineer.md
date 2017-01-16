@@ -1,4 +1,4 @@
-## Front-end Software Engineer
+## Frontend Software Engineer
 #### San Francisco, CA
 
 ### Overview
