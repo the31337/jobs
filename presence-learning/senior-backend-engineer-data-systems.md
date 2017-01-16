@@ -1,4 +1,4 @@
-## Sr. Backend Engineer, Data Systems
+## Senior Backend Engineer, Data Systems
 #### San Francisco, CA
 
 ### Description

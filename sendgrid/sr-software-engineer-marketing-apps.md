@@ -1,4 +1,4 @@
-## Sr. Software Engineer - Marketing Apps
+## Senior Software Engineer - Marketing Apps
 #### Redwood City, CA
 
 ### Overview
