@@ -1,4 +1,4 @@
-## Back-end Software Engineer
+## Backend Software Engineer
 #### San Francisco, CA
 
 ### Overview

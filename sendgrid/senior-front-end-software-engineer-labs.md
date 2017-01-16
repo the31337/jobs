@@ -1,4 +1,4 @@
-## Senior Front End Software Engineer – Labs
+## Senior Frontend Software Engineer – Labs
 #### Redwood City, CA
 
 ### Quick Summary

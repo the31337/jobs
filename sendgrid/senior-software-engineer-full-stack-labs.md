@@ -1,4 +1,4 @@
-## Senior Software Engineer (Full Stack) – Labs
+## Senior Software Engineer (Fullstack) – Labs
 #### Redwood City, CA
 
 ### Quick Summary
