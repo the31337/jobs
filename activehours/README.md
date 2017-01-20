@@ -22,9 +22,6 @@ Funding Rounds (2) - $26.1M
 + Jan, 2017	$22M / Series A
 + Jul, 2014	$4.1M / Seed
 
-## Benefits & Perks
-Coming soon...
-
 ## Good To Know
 Coming soon...
 
