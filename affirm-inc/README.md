@@ -12,13 +12,7 @@ Affirm is an SF financial tech start-up that is headed by Max Levchin (PayPal Ma
 #### [Machine Learning Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/software-engineer-machine-learning.md)
 
 ## Location
-![633 Folsom St, 7th Floor, CA](https://maps.googleapis.com/maps/api/staticmap?center=633+Folsom+St,+7th+Floor&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
-
-## Technologies
-Coming soon...
-
-## Team Size
-Coming soon...
+![633 Folsom St, 7th Floor, CA](https://maps.googleapis.com/maps/api/staticmap?center=633+Folsom+St,+7th+Floor&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
 
 ## Funding
 Funding Rounds (3) - $420M
@@ -27,19 +21,7 @@ Funding Rounds (3) - $420M
 + May, 2015	$275M / Series B
 + Jun, 2014	$45M / Series A
 
-## Benefits & Perks
-Coming soon...
-
-## Good To Know
-Coming soon...
-
-## Interview Process
-Coming soon...
-
 ## On The Web
 + [Website](http://affirm.com)
 + [Crunchbase](https://www.crunchbase.com/organization/affirm#/entity)
 + [Angel List](https://angel.co/affirm)
-
-## News
-Coming soon...
