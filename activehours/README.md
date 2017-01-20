@@ -5,7 +5,7 @@ Activehours allows hourly workers to be paid for the hours they have worked befo
 
 
 ## Open Positions
-+ Backend Engineer
+##### + Backend Engineer
 
 ## Location
 ![405 Waverly St, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=405+Waverly+St,+Palo+Alto,+Ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C405+Waverly+St,+Palo+Alto,+Ca)  
@@ -22,22 +22,13 @@ Funding Rounds (2) - $26.1M
 + Jan, 2017	$22M / Series A
 + Jul, 2014	$4.1M / Seed
 
-## Benefits & Perks
-Coming soon...
-
-## Good To Know
-Coming soon...
-
 ## Interview Process
 + 1 hour tech / culture screen with engineer, computer needed
 + 3-5 hour take home challenge to be completed 1 day before onsite
 + 4 hour onsite
 
 ## On The Web
-+ [Website](http://compology.us)  
++ [Website](https://activehours.com)  
 + [Crunchbase](https://www.crunchbase.com/organization/activehours#/entity)  
 + [Twitter](https://twitter.com/Activehours?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
 + [Angel List](https://angel.co/activehours/jobs/130981-senior-mobile-designer)
-
-## News
-Coming soon...
