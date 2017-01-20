@@ -17,10 +17,8 @@ Our infrastructure consists of 100s of machines within 50+ data-centers across t
 
 ### What we look for
 + BS or MS in Computer Science.
-+ Strong Javascript, HTML, and CSS skills.
-+ Experience with Ruby, Rails.
++ Strong iOS
 + A solid intuition for good design.
-+ Experience with complex, scalable systems.
 + Ability to thrive in a group environment and work in small teams.
 + Enthusiasm to conceive, define, and create a new kind of television experience.
 
