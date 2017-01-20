@@ -22,6 +22,12 @@ Funding Rounds (2) - $26.1M
 + Jan, 2017	$22M / Series A
 + Jul, 2014	$4.1M / Seed
 
+<<<<<<< HEAD
+=======
+## Good To Know
+Coming soon...
+
+>>>>>>> e321debc49957ad24c165b2d56f94c393298ca4a
 ## Interview Process
 + 1 hour tech / culture screen with engineer, computer needed
 + 3-5 hour take home challenge to be completed 1 day before onsite
