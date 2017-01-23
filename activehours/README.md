@@ -3,7 +3,6 @@
 ## Overview
 Activehours allows hourly workers to be paid for the hours they have worked before their pay check arrives. Anyone with a job and checking account can use the service, with the idea being that users can use accrued earnings to pay for transactions like an unexpected car repair without paying onerous overdraft fees from a bank or a high-interest payday lender. Activehours doesn't charge interest and users have an option to 'tip' what they think is fair for the service.
 
-
 ## Open Positions
 ##### + Backend Engineer
 
@@ -22,12 +21,9 @@ Funding Rounds (2) - $26.1M
 + Jan, 2017	$22M / Series A
 + Jul, 2014	$4.1M / Seed
 
-<<<<<<< HEAD
-=======
 ## Good To Know
-Coming soon...
+Office is only 10 Min from Caltrain
 
->>>>>>> e321debc49957ad24c165b2d56f94c393298ca4a
 ## Interview Process
 + 1 hour tech / culture screen with engineer, computer needed
 + 3-5 hour take home challenge to be completed 1 day before onsite
