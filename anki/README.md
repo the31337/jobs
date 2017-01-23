@@ -14,10 +14,10 @@ Anki has been named one of the top 50 most innovative companies in the world by 
 
 ## Funding
 Funding Rounds (4) - $157.5M
-Jun, 2016	$52.5M / Private Equity
-Sep, 2014	$55M / Series C
-Jun, 2013	$50M / Series B
-Jan, 2012	undisclosed amount / Series A
++ Jun, 2016	$52.5M / Private Equity
++ Sep, 2014	$55M / Series C
++ Jun, 2013	$50M / Series B
++ Jan, 2012	undisclosed amount / Series A
 
 ## On The Web
 + [Website](http://anki.com/)

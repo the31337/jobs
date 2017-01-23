@@ -14,12 +14,12 @@ App Annie is the industry leader for app analytics. With over 600,000 apps using
 
 ## Funding
 Funding Rounds (6) - $157M
-Jan, 2016	$63M / Series E
-Jan, 2015	$55M / Series D
-May, 2014	$17M / Series C
-Sep, 2013	$15M / Series C
-Aug, 2012	$6M / Series B
-Jul, 2011	$1M / Series A
++ Jan, 2016	$63M / Series E
++ Jan, 2015	$55M / Series D
++ May, 2014	$17M / Series C
++ Sep, 2013	$15M / Series C
++ Aug, 2012	$6M / Series B
++ Jul, 2011	$1M / Series A
 
 ## Benefits & Perks
 + Medical, dental, and vision insurance
