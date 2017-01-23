@@ -9,10 +9,6 @@ Activehours allows hourly workers to be paid for the hours they have worked befo
 ## Location
 ![405 Waverly St, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=405+Waverly+St,+Palo+Alto,+Ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C405+Waverly+St,+Palo+Alto,+Ca)  
 
-## Technologies
-+ .net
-+ Python
-
 ## Team Size
 Team of 35 – 14 Engineers, 5 Mobile and 9 Backend.
 
