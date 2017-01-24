@@ -1,8 +1,21 @@
 # Comprehend
 
 ## Overview
-Comprehend is a technology company with a new class of cloud software to help Clinical Operations continuously improve the speed, efficiency and quality of clinical trials across its portfolio of studies. For the first time, teams are given a single system with powerful data aggregation, monitoring, collaboration and analytic capabilities to actively manage enrollment funnels, patient compliance, data quality and site productivity across systems, studies and sites. The Continuous Quality Solution (CQS) goes beyond traditional site monitoring, giving ClinOps teams and executives portfolio monitoring on their key performance and risk indicators to significantly lower the cost, time and risk to deliver milestones on-time.
+Helping Drug companies have more efficient Trials - let's drugs get released faster, saves a ton of money
 
-## Current Openings
+## Open Positions
 ##### [Platform Engineer (Infrastructure)](https://github.com/the31337/jobs/blob/master/comprehend/platform-engineer-infrastructure.md)
 ##### [Senior Software Engineer](https://github.com/the31337/jobs/blob/master/comprehend/senior-software-engineer.md)
+
+## Location
+![2010 Broadway, Suite 200, Redwood City, CA](https://maps.googleapis.com/maps/api/staticmap?center=2010+Broadway,+Suite+200,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+
+## Funding
++ Aug, 2014	$21M / Series B
++ Jul, 2013	$8.5M / Series A
++ Nov, 2011	$1.2M / Seed
+
+## On The Web
++ [Website](http://www.comprehend.com)
++ [Crunchbase](https://www.crunchbase.com/organization/comprehend-systems#/entity)
++ [Angel List](https://angel.co/comprehend)

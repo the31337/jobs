@@ -3,31 +3,20 @@
 ## Overview
 Compology builds WasteOS: the only routing system built exclusively for the waste industry. They use sensors and software to monitor levels in industrial waste containers to more efficiently route collection trucks. This has created massive saving for their customers by reducing their fleet sizes (collection trucks) by up to 40%.
 
-
 ## Open Positions
-
+##### [Lead UI/UX Designer] (https://github.com/the31337/jobs/blob/master/compology/lead-ui-ux-designer.md)
 
 ## Location
 ![2121 Harrison St, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C2121+Harrison+St,+San+Francisco,+CA)  
 
-## Technologies
-+ node.js
-+ Python
-+ AWS
-+ Android
-+ PostgreSQL
-
-## Team Size
-Team of 11 – 2 on the business side, 2 data entry, Product Manager, 2 hardware engineers, 4 software engineers.
-
 ## Funding
 + Funding Rounds (3) - $7.53M
 + Apr, 2016	$7M / Series A
-+ Mar, 2016	undisclosed amount
++ Mar, 2016	undisclosed amount / Venture
 + Apr, 2014	$525k / Debt Financing
 
-## Benefits & Perks
-Coming soon...
+## Team Size
+Team of 11 – 2 on the business side, 2 data entry, Product Manager, 2 hardware engineers, 4 software engineers.
 
 ## Good To Know
 + Founders went to High School together.
@@ -50,7 +39,8 @@ Coming soon...
 
 ## On The Web
 + [Website](http://compology.us)  
-+ [Crunchbase](https://www.crunchbase.com/organization/compology)  
++ [Crunchbase](https://www.crunchbase.com/organization/compology)
++ [Angel List] (https://angel.co/compology)
 + [Twitter](https://twitter.com/compology)  
 
 ## News
@@ -60,4 +50,3 @@ Coming soon...
 + ['Smart Garbage' Startup Cuts City Trash Costs by 40 Percent](http://www.govtech.com/civic/Smart-Garbage-Startup-Cuts-City-Trash-Costs-by-40-Percent.html)
 + [Mega Session: Smart Trucks: New Collection Technologies](https://www.youtube.com/watch?v=7gL__4shpPw)
 + [20 Awesome Smart Tech and IoT Startups To Watch](http://controlyourbuilding.com/blog/entry/20-awesome-smart-tech-and-iot-startups-to-watch)
-+
