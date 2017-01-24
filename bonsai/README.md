@@ -1,13 +1,13 @@
 # Bons.ai ❤️🤖
 
 ## Overview
-Bonsai is building a platform aiming to democratize AI. Bonsai abstracts away the low-level, inner workings of machine learning systems to empower more developers to integrate richer intelligence models into their work. They even recently hired the Head of Machine Learning from Uber. Located in Berkeley, Bonsai is looking for multiple product managers across multiple parts of their product - API/CLI (backend), Web Experience, Debugger IDE, AI Engine, Language, PM on Docs.
+Bonsai is creating a platform and community aiming to make it easier for developers to build AI. To do this, they have built a better learning system and developed a language for that called Inkling.
 
 ## Open Positions
 #### [Technical Product Manager](https://github.com/the31337/bonsai/blob/master/technical-product-manager.md)
 
 ## Location
-![2140 Shattuck Ave., Berkeley, CA](http://maps.googleapis.com/maps/api/staticmap?center=2140+Shattuck+Ave.,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C2140+Shattuck+Ave.,+Berkeley,+CA)  
+![2140 Shattuck Ave., Ste. 510, Berkeley, CA](https://maps.googleapis.com/maps/api/staticmap?center=2140+Shattuck+Ave.,+Ste.+510,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
 
 ## Funding
 + Sep, 2016	$2.2M / Series A
