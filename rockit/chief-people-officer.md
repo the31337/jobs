@@ -45,4 +45,4 @@ Our business is people – we want to make sure that we focus on this internally
 + Oversee Committees (RockIT’s Project Initiatives)
    + Project Manage each Committee
    + Help committees set attainable goals and stay focused
-   + Participate in quarterly planning initiatives for priority committees and projects
+  + Participate in quarterly planning initiatives for priority committees and projects
