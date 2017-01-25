@@ -9,7 +9,7 @@ Founded in 2011, RockIT partners with Bay Area start-ups to build their teams th
 +	One of our Partners blogs about why he works at RockIT
 
 ### Job Description
-RockIT has established itself as the preferred contingency recruiting partner for Bay Area startups, now it is time to expand our services to meet client’s hiring needs top to bottom.  You will build the RPO Service at RockIT, managing projects for clients that need a dedicated recruiting team for hiring bursts.
+RockIT has established itself as the preferred contingency recruiting partner for Bay Area startups, now it is time to expand our services to meet clients’ hiring needs top to bottom.  You will build the RPO Service at RockIT, managing projects for clients that need a dedicated recruiting team for hiring bursts.
 
 ### What You Will Do
 As the founding Recruiter for our RPO team, you will do a bit of everything.  This includes:
@@ -22,7 +22,7 @@ As the founding Recruiter for our RPO team, you will do a bit of everything.  Th
 +	Advise on branding/ collateral for RPO Project services
 
 ### What we look for
-+	Strong network within Bay Area Startups – both client and candidates
++	Strong network within Bay Area Startups – both clients and candidates
 +	Experience generating leads and selling Project-based services, then successfully delivering on them
 +	An opinion on how to develop the RPO service at RockIT
 +	Grit, hustle and determination to use our Launchpad to set your career into orbit
