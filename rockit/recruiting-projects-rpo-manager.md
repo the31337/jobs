@@ -3,10 +3,11 @@
 
 ### Quick Summary
 Founded in 2011, RockIT partners with Bay Area start-ups to build their teams that build the products.  In the past 2 years alone, we have helped > 100 startups hire hundreds of Engineers, Product Managers and Designers.  
-+	#1220 on Inc 5000 Fastest Growing Companies in 2016
-+	Finalist for Ebbies Emerging Growth Award in 2015
-+	Learn about us on Glassdoor
-+	One of our Partners blogs about why he works at RockIT
+
++ [#1220 on Inc 5000] (http://www.inc.com/profile/rockit-recruiting?cid=full500016-list-1220) Fastest Growing Companies in 2016
++ [Finalist for Ebbies] (https://sfchamber.com/2015-ebbies-finalists/) Emerging Growth Award in 2015
++ [Learn about us] (https://www.glassdoor.com/Overview/Working-at-RockIT-Recruiting-EI_IE915412.11,28.htm) on Glassdoor
++ [One of our Partner's] (https://www.linkedin.com/pulse/why-i-still-work-rockit-recruiting-matthew-walker) blogs about why he works at RockIT
 
 ### Job Description
 RockIT has established itself as the preferred contingency recruiting partner for Bay Area startups, now it is time to expand our services to meet clients’ hiring needs top to bottom.  You will build the RPO Service at RockIT, managing projects for clients that need a dedicated recruiting team for hiring bursts.
