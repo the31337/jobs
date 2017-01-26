@@ -26,6 +26,6 @@ Funding Rounds (2) - $13.2M
 + Onsite interview
 
 ## On The Web
-+ + [Website](https://www.nimasensor.com/)
++ [Website](https://www.nimasensor.com/)
 + [Crunchbase](https://www.crunchbase.com/organization/6sensor-labs#/entity)
 + [Angel List](https://angel.co/nimalabs)
