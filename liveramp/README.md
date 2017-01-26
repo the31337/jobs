@@ -8,6 +8,9 @@ LiveRamp, acquired by Axciom in 2014, is the leader of data connectivity, bringi
 ##### [Team Lead, Backend](https://github.com/the31337/jobs/blob/master/liveramp/team-lead-backend.md)
 ##### [Team Lead, Full-stack](https://github.com/the31337/jobs/blob/master/liveramp/team-lead-full-stack.md)
 ##### [Senior Platform Engineer] (https://github.com/the31337/jobs/blob/master/liveramp/senior-platform-engineer.md)
+##### [Data Scientist](https://github.com/the31337/jobs/blob/master/liveramp/data-scientist.md)
+##### [Senior Engineer, DevOps](https://github.com/the31337/jobs/blob/master/liveramp/senior-engineer-devops.md)
+##### [UX Engineer](https://github.com/the31337/jobs/blob/master/liveramp/ux-engineer.md)
 
 ## Location
 ![225 Bush St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=225+Bush+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
