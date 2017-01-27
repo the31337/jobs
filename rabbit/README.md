@@ -7,56 +7,42 @@ Rabbit is a Series A startup located in Redwood City that is focused on advancin
 #### [Senior Software Engineer Real-time Audio/Video Networking](senior-software-engineer-real-time-audio-video-networking.md)
 #### [Senior Platform Engineer](https://github.com/the31337/jobs/blob/master/rabbit/senior-software-engineer-platform.md)
 #### [Senior Web Developer](https://github.com/the31337/jobs/blob/master/rabbit/senior-web-developer.md)
-#### [Senior iOS Engineer](https://github.com/the31337/jobs/blob/master/rabbit/senior-software-engineer-ios.md)
 
 ## Location
 ![1741 Broadway Street Ste 200, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=1741+Broadway+Street,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C1741+Broadway+Street,+Redwood+City,+CA)  
 
-## Technologies
-+ C / C++
-+ Java
-+ Javascript (ES5/ES6)
-+ Node.js
-+ MongoDB
-+ Backbone.js
-+ WebRTC
-+ Ruby
-+ Python
-+ Puppet
-+ Chef
-+ Swift
-+ Objective-C
-
 ## Team Size
-+ 28 total
-+ 12 engineers
+20 Total, 12 Engineers
 
 ## Funding
-Feb, 2013	$3.3M / Seed  
-Date unknown / Amount unknown / Series A  
-Date unknown / $10.3M / Series A3  
+Funding Rounds (1) - $3.3M
++ Feb, 2013	$3.3M / Seed
 
 ## Benefits & Perks
 + Full benefits (healthcare, dental, vision)
 + Unlimited vacation
-+ Equity
 
 ## Good To Know
-+ 10x more traffic than competition (Meerkat and Periscope)
-+ 500k users per month and growing
-+ Users spend 15hrs/month on Rabbit (Facebook users spend 25hrs/month)
-+ Rabbit was included in Fast Company’s Top 10 Most Innovative Companies in Video in 2015 and is nominated for a 2016 Webby Award.
++ 10x more traffic than competition (Meerkat  and Periscope)
++ Users spend 15hrs/month on Rabbit (Compare that to Facebook users who spend 25hrs/month)
++ They have 2 years of runway on top of their Series A
+
+## Interview Process
++ 30 min tech/culture screen (using the Rabbit platform)
++ Breakfast with co-founder/director
++ Final onsite
 
 ## On The Web
 + [Website](https://www.rabb.it/)  
 + [Crunchbase](https://www.crunchbase.com/organization/rabbit)
++ [Angel List](https://angel.co/rabbit-2)
 + [Twitter](https://twitter.com/letsrabbit)  
-+ [Facebook](https://www.facebook.com/letsrabbit/)  
++ [Facebook](https://www.facebook.com/letsrabbit/)
 + [iTunes](https://itunes.apple.com/app/apple-store/id1034629715?mt=8)  
 + [Tumblr](http://letsrabbit.tumblr.com/)  
 
 ## People
-+ [Michael Temkin (CEO)](https://www.linkedin.com/in/michaeltemkin)  
++ [Michael Temkin (CEO)](https://www.linkedin.com/in/michaeltemkin)
 + [Gregory Fischbach (Founder / Executive Chairman)](https://www.linkedin.com/in/gregoryfischbach)  
 + [Tim Zaitsev (Director of Engineering)](https://www.linkedin.com/in/tzaitsev)  
 + [Philippe Clavel (Founder / CTO)](https://www.linkedin.com/in/pclavel)  
