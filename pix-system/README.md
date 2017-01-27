@@ -7,18 +7,13 @@ Their software comes in 3 main forms, an iOS App, a Mac OS app, and a Web App. T
 
 ## Open Positions
 #### [Software Engineer, Platform](https://github.com/the31337/jobs/blob/master/pix-systems/software-engineer-platform.md)
+#### [Designer](https://github.com/the31337/jobs/blob/master/pix-system/designer.md)
+##### [Director of Product Management](https://github.com/the31337/jobs/blob/master/pix-system/director-product-management.md)
+##### [Tools / Internal Engineer](https://github.com/the31337/jobs/blob/master/pix-system/tools-internal-engineer.md)
 
 ## Location
-![100 1st St, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=100+1st+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C100+1st+St,+San+Francisco,+CA)  
-
-## Technologies
-+ PHP
-+ Distributed Systems
-+ AWS
-+ Docker
-+ Vagrant
-+ Microservices
-+ More coming soon...
+![100 1st St, Suite 300, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=100+1st+St,+Suite+300,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+1st and Mission st.  
 
 ## Team Size
 Small team, Right now on the back-end team there are 2 contractors, and 2 full time employees.  The front end team has 4-6 people as well.  The company is pretty small, about 30-40 people in the SF offfice.
@@ -36,19 +31,11 @@ They are well funded and profitable at this point bringing in revenue from 100's
 + Field trips to productions and private film screenings
 + Lively team environment
 
-## Fun Facts
-+ Name 2 directors that love Pix. Spielberg, Fincher, Lynch, Mendes, and the list goes on.
-+ What TV show did the engineering team watch a premier of at the Lucas Ranch? House Of Cards
-+ Who had Pix fly an engineering team down to LA to install a Pix system into his Bentley? Spielberg
-
-## Interview Process
-Coming soon...
+## Good To Know
++ Competitive landscape includes: Frame.io, Shotgun, Mediasilo, 5th Kind, of course box/dropbox.
 
 ## On The Web
 + [Website](http://pixsystem.com)
 + [CrunchBase](https://www.crunchbase.com/organization/pix-system)
 + [Facebook](https://www.facebook.com/SuperhumanCo/)
 + [Twitter](https://twitter.com/pixsystem)
-
-## People
-Coming soon...
