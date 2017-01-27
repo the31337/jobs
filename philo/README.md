@@ -4,38 +4,31 @@
 The average American watches 4.5 hours of TV a day, and cable is the biggest advertising market in the world. It's about time someone created a better user experience. Philo is reinventing TV, starting with universities and small cable providers. With founders coming from Harvard, a CTO from MIT, one of Facebook's founding level engineers as CEO, and an extremely talented engineering team, they are beginning their journey to become like Spotify for your TV.
 
 ## Open Positions
-#### [Back-end Software Engineer](https://github.com/the31337/jobs/blob/master/philo/back-end-software-engineer.md)
-#### [Front-end Software Engineer](https://github.com/the31337/jobs/blob/master/philo/front-end-software-engineer.md)
+#### [Backend Software Engineer](https://github.com/the31337/jobs/blob/master/philo/back-end-software-engineer.md)
+#### [Frontend Software Engineer](https://github.com/the31337/jobs/blob/master/philo/front-end-software-engineer.md)
+##### [Senior iOS Engineer](https://github.com/the31337/jobs/blob/master/philo/senior-ios-engineer.md)
+##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/philo/fullstack-engineer.md)
+
 ## Location
 ![772 Bryant Street, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=772+Bryant+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C772+Bryant+Street,+San+Francisco,+CA)  
 
-## Technologies
-+ Ruby / Rails
-+ Javascript / ES6
-+ React / Redux
-+ Python / Salt
-
 ## Team Size
-6-7 engineers
+40 Total
 
 ## Funding
-$18.83 million in 3 rounds  
+Funding Rounds (4) - $18.83M
 + Jun, 2015	$10M / Series B  
 + Nov, 2014	$2.53M / Debt Financing	  
 + Jul, 2013	$6.3M / Series A  
 + Jun, 2011	undisclosed amount  
 
 ## Benefits & Perks
-+ Collaborate with energetic, innovative, and dedicated colleagues
-+ Work with experienced professionals, including instrumental team members who previously worked at Meraki, Comcast, and more
-+ Attend viewing parties of awesome TV and awesomely terrible movies
-+ Eat the gourmet chocolate that’s in the office pretty much at all times
-+ Hang out with Charlie, our office wonder-dog
-+ Generous equity
-+ Reasonable vacation policy
++ Flat engineering culture. Engineering drives the company
++ Starting with universities like the Facebook model. CEO kept saying he invested because this is the next big thing since facebook. He spent the last 10 years looking for what to invest in and this is it.
++ No vacation policy yet, they just demand that everyone takes at least 2 weeks.
 + Free parking!
 
-## Culture and Values
+## Culture
 #### Necessity is the mother of invention
 Philo was born in a Harvard dorm room, where cable TV wasn’t offered and the over-the-air broadcast couldn’t penetrate the walls of the 300-year-old brick residence halls. The founders of Philo wanted to watch TV around campus, so they wrapped their room in aluminum foil to boost the signal, and connected it to a server to stream it over the campus network.
 
@@ -48,13 +41,10 @@ We’re a small team that puts our product experience first. We foster a flexibl
 #### Hack the Full Stack
 Philo’s engineers hack up and down the technology stack. It’s not uncommon for a Philo engineer to go from backend coding to user experience design, from the video encoding pipeline to system scalability, from site maintenance to iOS/Android development.
 
-
-## Good To Know
-
 ## Interview Process
-1.  Phonecall with an engineer for 1 hour, mix of cultural and high level tech
-2.  Coding challenge or code sample
-3.  Onsite (most of the day)
++ Phonecall with an engineer for 1 hour, mix of cultural and high level tech
++ Coding challenge or code sample. regarding the challenge "I definitely took my time with it, probably more than the three hours they suggested. Their project was unique in that is was built with a very new set of javascript tools: React/Redux/ES6. I had pretty much no exposure to redux and ES6 prior to working on it. I'd imagine that's why other candidates are having trouble with it. "
++ Final onsite. most of a day
 
 ## On The Web
 + [Website](https://www.crunchbase.com/organization/philo)  
@@ -76,3 +66,4 @@ Philo’s engineers hack up and down the technology stack. It’s not uncommon f
 + [Philo Raises $10 Million From NEA, HBO & Others](https://techcrunch.com/2015/06/15/philo-raises-10-million-from-nea-hbo-others-for-its-on-campus-internet-tv-service/)
 + [World’s 50 Most Innovative Companies 2014](http://www.fastcompany.com/most-innovative-companies/2014/philo)
 + [Philo Tunes in More Than 40 Universities](http://www.multichannel.com/news/content/philo-tunes-more-40-universities/393636)
++ [U. to add HBO, HBOGO to Philo television service](http://www.browndailyherald.com/2016/12/08/u-to-add-hbo-hbogo-to-philo-television-service/)
