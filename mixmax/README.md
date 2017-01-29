@@ -1,4 +1,4 @@
-# Company Name
+# Mixmax
 ## Overview
 RockIT uses it every day and for many of us, life without it is unthinkable.  And as it turns out, we aren't alone in feeling that way.  They have customers and lots of them. Their revenue is trending up and up and are a month or two away from achieving profitability.   Not bad for a 3-year old company of 11 people who raised slightly less than ~3MM in seed capital.  These guys are doing it right.
 
