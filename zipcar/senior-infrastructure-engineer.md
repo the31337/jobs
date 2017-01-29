@@ -44,5 +44,3 @@ We are looking for capable, passionate people with great ideas to join our famil
 +	Competitive Benefits Package
 +	Free Membership
 +	Discounts on services, products and much more
-
-We are an EEO Employer - Minorities / Females / Protected Veterans / Disabled
