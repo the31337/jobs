@@ -10,7 +10,7 @@ ZipCar is the world's leading car sharing network and they recently acquired Loc
 ##### [Quality Engineer](https://github.com/the31337/jobs/blob/master/zipcar/quality-engineer.md)
 
 ## Location
-![15 N Ellsworth #100, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=15+N+Ellsworth+#100,+San+Mateo,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![15 N Ellsworth unit 100, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=15+N+Ellsworth+unit+100,+San+Mateo&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
 
 ## Funding
 Funding Rounds (4) - $60.7M
@@ -20,7 +20,7 @@ Funding Rounds (4) - $60.7M
 + Dec, 2002	$4.7M / Series B
 
 ## On The Web
-+ + [Website](http://www.zipcar.com/)
++ [Website](http://www.zipcar.com/)
 + [Crunchbase](https://www.crunchbase.com/organization/zipcar#/entity)
 + [Angel List](https://angel.co/zipcar)
 
