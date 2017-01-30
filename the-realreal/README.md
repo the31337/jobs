@@ -10,17 +10,7 @@ Through the use of “flash sales” create an easy environment for the selling 
 #### [Ruby on Rails Engineer](https://github.com/the31337/the-realreal/blob/master/rails-engineer.md)
 
 ## Location
-![55 Francisco St., San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=55+francisco+st+san+francisco+ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C55+francisco+st+san+francisco+ca)  
-Brand new office on the Embarcadero! 👊
-
-## Technologies
-+ Ruby
-+ Elixir
-+ Erlang
-+ Go
-+ Javascript
-+ Swift
-+ Docker
+![1980 Oakdale Ave, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1980+Oakdale+Ave,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
 
 ## Funding
 + Funding Rounds (6) - $122.97M
@@ -48,13 +38,14 @@ Brand new office on the Embarcadero! 👊
 + Exponential revenue growth
 
 ## On The Web
++ [Website](http://www.therealreal.com)
 + [CrunchBase](https://www.crunchbase.com/organization/the-realreal)
++ [Angel List](https://angel.co/the-realreal)
 + [Github](https://github.com/TheRealReal)
 + [Facebook](https://www.facebook.com/TheRealRealPage/)
 + [Twitter](https://twitter.com/therealreal])
 + [Instagram](https://www.instagram.com/therealreal/)
 + [YouTube](https://www.youtube.com/user/LuxuryConsignment)
-
 
 ## People
 + [Julie Wainright (CEO)](https://www.linkedin.com/in/juliewainwright)
@@ -77,3 +68,7 @@ Secondhand luxury sites are drawing buyers and sellers](http://www.businessweek.
 + [The RealReal Reports Remarkable Black Friday and Cyber Monday Sales](http://www.prnewswire.com/news-releases/the-realreal-reports-remarkable-black-friday-and-cyber-monday-sales-300006622.html)
 + [The RealReal: An online haven for designer duds](http://dailyemerald.com/2014/12/30/the-realreal-an-online-haven-for-designer-duds/)
 + [$100 million in used Chanel: How The RealReal is changing luxury shopping](http://fortune.com/2015/02/13/the-realreal-used-luxury-goods/)
++ [The RealReal and Dwyane Wade Team Up for Online Sale](http://wwd.com/fashion-news/fashion-scoops/the-realreal-and-dwyane-wade-team-up-for-online-sale-7979182)
++ [Online consignment shop leases 128,000 sq. ft. space in Secaucus](http://www.njbiz.com/article/20140714/NJBIZ01/140719861/Online-consignment-shop-leases-128000-sq-ft-space-in-Secaucus)
++ [The RealReal Joins the Ellen MacArthur Foundation's Circular Economy 100 USA (CE100)](http://www.prnewswire.com/news-releases/the-realreal-joins-the-ellen-macarthur-foundations-circular-economy-100-usa-ce100-300366771.html)
++ [The RealReal Brings Highly Covetable Luxury Items to New York City Shoppers in Holiday Pop-up Shop](http://www.prnewswire.com/news-releases/the-realreal-brings-highly-covetable-luxury-items-to-new-york-city-shoppers-in-holiday-pop-up-shop-300368314.html)
