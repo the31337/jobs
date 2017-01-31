@@ -1,4 +1,4 @@
-## iOS Lead (Life on Air)
+## iOS Lead
 #### San Francisco, CA
 
 We are looking for an iOS engineer to lead mobile development for the company.
