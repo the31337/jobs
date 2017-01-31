@@ -13,8 +13,8 @@ Inkling just raised 25M Series E funding in Dec 2016, they have a brand new offi
 ##### [Senior Infrastructure Engineer](https://github.com/the31337/inkling/blob/master/senior-infrastructure-engineer.md)
 ##### [Senior Javascript Engineer](https://github.com/the31337/inkling/blob/master/senior-javascript-engineer.md)
 ##### [Senior Product Manager](https://github.com/the31337/inkling/blob/master/senior-product-manager.md)
-##### [Senior Software Engineer (Backend)](https://github.com/the31337/jobs/blob/master/inkling/senior-software-engineer-backend.md)
-##### [Senior Windows Mobile Engineer](https://github.com/the31337/jobs/blob/master/inkling/senior-windows-mobile-engineer.md)
+##### [Senior Backend Engineer](https://github.com/the31337/jobs/blob/master/inkling/senior-backend-engineer.md)
+##### [Windows Mobile Engineer](https://github.com/the31337/jobs/blob/master/inkling/windows-mobile-engineer.md)
 
 ## Location
 ![343 Sansome Street 8th Floor, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=55+francisco+st+san+francisco+ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C55+francisco+st+san+francisco+ca)  
