@@ -1,4 +1,4 @@
-## Senior Software Engineer - Android
+## Senior Android Engineer
 #### San Francisco, CA
 
 ### Quick Summary

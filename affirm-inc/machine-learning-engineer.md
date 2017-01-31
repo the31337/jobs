@@ -1,4 +1,4 @@
-## Software Engineer - Machine Learning
+## Machine Learning Engineer
 #### San Francisco, CA
 
 ### Quick Summary
