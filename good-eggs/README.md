@@ -5,7 +5,7 @@ Founded in July 2011, Good Eggs has aimed to make it easier for people to buy or
 
 ## Open Positions
 ##### [Delivery Engineer (DevOps)](https://github.com/the31337/jobs/blob/master/good-eggs/delivery-engineer-devops.md)
-##### [Full-Stack Engineer](https://github.com/the31337/jobs/blob/master/good-eggs/full-stack-engineer.md)
+##### [Fullstack Engineer (javascript, node)](https://github.com/the31337/jobs/blob/master/good-eggs/fullstack-engineer-javascript-node.md)
 ##### [Senior Software Engineer, Logistics and Operations](https://github.com/the31337/jobs/blob/master/good-eggs/senior-software-engineer-logistics-and-operations.md)
 
 ## Location
