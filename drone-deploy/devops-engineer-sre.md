@@ -1,4 +1,4 @@
-## DevOps Engineer / SRE
+## DevOps Engineer SRE
 #### San Francisco, CA
 
 ### Job Description:
