@@ -7,7 +7,7 @@ They are disrupting the robotics, AI and iOT space with a non-intimidating and d
 Anki has been named one of the top 50 most innovative companies in the world by Fast Company. The company is backed by Andreessen Horowitz, Index Ventures and Two Sigma.They recently received their Series D round of funding for over $52M.
 
 ## Current Openings
-##### [Software Engineer/Game Developer](https://github.com/the31337/jobs/blob/master/anki/software-engineer-game-developer.md)
+##### [Senior Software / Game Engineer](https://github.com/the31337/jobs/blob/master/anki/senior-software-game-engineer.md)
 
 ## Location
 ![55 2nd Street, 15th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=55+2nd+Street,+15th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

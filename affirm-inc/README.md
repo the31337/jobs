@@ -4,12 +4,12 @@
 Affirm is an SF financial tech start-up that is headed by Max Levchin (PayPal Mafia, Slide acquired by Google in '10). With a $275MM Series B, they are focused on remaking consumer finance by providing loans to consumers for point of sale transactions. This enables consumers to pay over time by picking a loan that fits consumers budget and payment timeline (i.e.: 3-12 months). A few well known consumer-focused start-ups, such as The RealReal and Casper, have implemented Affirm's revolutionary check out and financing platform.
 
 ## Open Positions
-#### [Senior Android Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/senior-software-engineer-android.md)
+#### [Senior Android Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/senior-android-engineer.md)
 #### [Platform Engineer (Python)](https://github.com/the31337/jobs/blob/master/affirm-inc/platform-engineer-python.md)
-#### [Site Reliability Engineer (SRE) (DevOps)](https://github.com/the31337/jobs/blob/master/affirm-inc/site-reliability-engineer-sre-devops.md)
-#### [Software Engineer - FullStack](https://github.com/the31337/jobs/blob/master/affirm-inc/software-engineer-full-stack.md)
+#### [Site Reliability Engineer (Devops/SRE)](https://github.com/the31337/jobs/blob/master/affirm-inc/site-reliability-engineer-devops-sre.md)
+#### [Software Engineer - FullStack](https://github.com/the31337/jobs/blob/master/affirm-inc/fullstack-engineer.md)
 #### [Infrastructure Engineer (Python)](https://github.com/the31337/jobs/blob/master/affirm-inc/infrastructure-engineer-python.md)
-#### [Machine Learning Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/software-engineer-machine-learning.md)
+#### [Machine Learning Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/machine-learning-engineer.md)
 
 ## Location
 ![633 Folsom St, 7th Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=633+Folsom+St,+7th+Floor&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

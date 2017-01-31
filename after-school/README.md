@@ -5,8 +5,8 @@ After School's innovative features channel students toward making new connection
 The messages students share are overwhelmingly positive: compliments, notes of encouragement and support, and ideas for fun in-person activities.
 
 ## Open Positions
-####[iOS Engineer](https://github.com/the31337/jobs/blob/master/after-school/iOS_Developer.md)
-####[Fullstack Engineer](https://github.com/the31337/jobs/blob/master/after-school/Fullstack_PHP.md)
+####[iOS Engineer](https://github.com/the31337/jobs/blob/master/after-school/ios-engineer.md)
+####[Fullstack Engineer](https://github.com/the31337/jobs/blob/master/after-school/fullstack-engineer.md)
 
 ## Location
 ![158 South Park, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=158+South+Park,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
