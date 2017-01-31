@@ -5,9 +5,9 @@ Glint is creating a SaaS "people" Analytics platform using NLP and Machine Learn
 Their recent $37M Series C round brings their total funding to $60M. Solid leadership, with a Co-Founder & CEO who co-founded Turn, (now worth over 700M dollars). Glint is already saving thousands of dollars for big name companies like Pandora, Nest, and AOL. They have 100 paying clients with 500,000 users and million $ revenue/ year. They are looking for Engineer #16 to join the team. Redwood City pulse surveys to understand how employees are feeling about company. solves problem of boring online surveys and untimely annual reviews.
 
 ## Open Positions
-#### [Senior Systems Engineer](https://github.com/the31337/jobs/blob/master/glint/senior-systems-engineer.md)
+#### [Systems Engineer](https://github.com/the31337/jobs/blob/master/glint/systems-engineer.md)
 #### [Senior Web Applications Engineer](https://github.com/the31337/jobs/blob/master/glint/senior-web-applications-engineer.md)
-#### [Engineering Director] (https://github.com/the31337/jobs/blob/master/glint/engineering-director-platform.md)
+#### [Engineering Director] (https://github.com/the31337/jobs/blob/master/glint/engineering-director.md)
 #### [Data Platform Engineer] (https://github.com/the31337/jobs/blob/master/glint/data-platform-engineer.md)
 #### [Associate Systems Engineer] (https://github.com/the31337/jobs/blob/master/glint/associate-systems-engineer.md)
 
