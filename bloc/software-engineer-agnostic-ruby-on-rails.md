@@ -1,4 +1,4 @@
-## Software Engineer
+## Software Engineer (Agnostic, Ruby on Rails)
 #### San Francisco, CA
 
 ### Company Overview
