@@ -1,4 +1,4 @@
-## Fullstack Engineer
+## Fullstack Engineer (javascript, node)
 #### San Francisco, CA
 
 ### Quick Summary
