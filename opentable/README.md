@@ -2,10 +2,6 @@
 ## Overview
 OpenTable (SF) is a restaurant management system for consumers to easily book their new or favorite restaurants. OpenTable has a customer base of over 32k restaurants spanning the world with over 16 million dinners reserved a month. They are looking to build out their search and photos team and would definitely love to add your talents.
 
-## Open Positions
-##### [Sr. Software Engineer (Java)](https://github.com/the31337/jobs/blob/master/opentable/senior-software-engineer-java.md)
-##### [Senior Fullstack Engineer (Node)](https://github.com/the31337/jobs/blob/master/opentable/senior-full-stack-engineer-node.md)
-
 ## Location
 ![1 Montgomery St Ste 700, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1+Montgomery+St+Ste+700,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
 
