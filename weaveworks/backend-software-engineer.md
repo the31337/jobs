@@ -53,8 +53,3 @@ Berlin. We are committed to open source software. We offer full medical benefits
 is a family friendly company that believes in and is committed to equality - so we offer flexible
 working hours, vacation and parental leave. We encourage a good work-life balance in our
 policies
-
-### Contact
-Name: Michael Lipschutz
-Phone Number: 650-787-9449  
-Email: michael@rockitrecruiting.com
