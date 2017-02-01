@@ -18,7 +18,7 @@ We want to challenge the status quo, break down unnecessary barriers and give wo
 ## Open Positions
 ##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/nurx/ios-engineer.md)
 ##### [Infrastructure Engineer](https://github.com/the31337/jobs/blob/master/nurx/infrastructure-engineer.md)
-##### [Frontend Engineer](https://github.com/the31337/jobs/blob/master/nurx/front-end-engineer.md)
+##### [Frontend Engineer](https://github.com/the31337/jobs/blob/master/nurx/frontend-engineer.md)
 
 ## Location
 ![81 Langton St #11, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=81+Langton+St+#11,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
