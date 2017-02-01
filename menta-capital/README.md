@@ -3,7 +3,7 @@
 Menta Capital LLC is a San Francisco based hedge fund company that manages global equity, marketneutral portfolios for mainly institutional clients. Employing quantitative strategies, Menta seeks to deliver superior risk-adjusted returns on positions in developed, emerging and frontier markets around the globe. Menta invests heavily in proprietary software systems. These systems are used for researching investment ideas, for daily trading and portfolio management and as a basis for back-office operations.
 
 ## Open Positions
-##### [Java Developer](https://github.com/the31337/jobs/blob/master/menta-capital/software-developer-java.md)
+##### [Java Developer](https://github.com/the31337/jobs/blob/master/menta-capital/java-developer.md)
 
 ## Location
 ![1 Market St. Suite 3730, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1+Market+St.+Suite+3730,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
