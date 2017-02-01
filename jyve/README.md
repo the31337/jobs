@@ -4,7 +4,7 @@
 Jyve is partnering up with local businesses to provide on-demand merchandising solutions. How? You can sign up as a Jyver and work with Jyve's partners, like Redbull, Kettle Chips, and others, to solve their merchandising problems. Jyve is looking to expand across the US and Internationally!
 
 ## Open Positions
-##### [Frontend Engineer (Hybrid Designer)](https://github.com/the31337/jobs/blob/master/jyve/frontend-engineer-react.md)
+##### [Frontend Engineer (Hybrid Designer)](https://github.com/the31337/jobs/blob/master/jyve/frontend-engineer-hybrid-designer.md)
 
 ## Location
 ![832 Sansome St. 1st Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=832+Sansome+St.+1st+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

@@ -4,7 +4,7 @@
 Ladder Life (Menlo Park) is building a fast and efficient way for people to buy life insurance. With recent Series A funding from some of the Valley's top investors like Lightspeed (Snapchat) and Formation8 (Oscar), Ladder Life is bringing true innovation to this billionaire dollar industry. This is an incredible opportunity to work with cutting edge technologies (Clojure, Reactjs) and to be an early employee at a company that's looking to solve real problems.
 
 ## Open Positions
-##### [Fullstack Engineer (Clojure)](https://github.com/the31337/jobs/blob/master/ladder-life/full-stack-engineer-agnostic-clojure.md)
+##### [Fullstack Engineer (Agnostic, Clojure)](https://github.com/the31337/jobs/blob/master/ladder-life/full-stack-engineer-agnostic-clojure.md)
 
 ## Location
 ![650 Live Oak Ave, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=650+Live+Oak+Ave,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
