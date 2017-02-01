@@ -1,4 +1,4 @@
-## Frontend Engineer (React)
+## Frontend Engineer (Hybrid Designer)
 #### San Francisco, Ca
 
 ### Job Description
