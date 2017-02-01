@@ -6,6 +6,7 @@ A live video streaming app where individuals can chat and connect with friends o
 ## Open Positions
 ##### [iOS Lead](https://github.com/the31337/jobs/blob/master/houseparty/ios-lead.md)
 ##### [Backend Engineer](https://github.com/the31337/jobs/blob/master/houseparty/backend-engineer.md)
+##### [Android Enginner](https://github.com/the31337/jobs/blob/master/houseparty/android-engineer.md)
 
 ## Location
 ![San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
