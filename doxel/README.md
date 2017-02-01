@@ -11,6 +11,7 @@ This significantly reduces costs, and more importantly reduces the risk of a pro
 
 ## Open Positions
 ##### [SLAM Engineer](https://github.com/the31337/jobs/blob/master/doxel/slam-engineer.md)
+##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/doxel/fullstack-engineer.md)
 
 ## Location
 ![101 Jefferson Drive, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=101+Jefferson+Drive,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C24th+&+Mission+ST,+San+Francisco,+CA)  
