@@ -8,6 +8,7 @@ Weave stands the traditional infrastructure-centric model on its head. Instead o
 
 ## Open Positions
 ##### [Developer Experience Engineer (Dev Advocate](https://github.com/the31337/jobs/blob/master/weaveworks/developer-experience-engineer-dev-advocate.md)
+##### [Backend Software Engineer]()
 
 ## Location
 ![251 Rhode Island Street, Suite 204, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=251+Rhode+Island+Street,+Suite+204,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
