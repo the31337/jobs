@@ -4,6 +4,7 @@ Matternet is the leading developer of autonomous drone logistics systems. The co
 
 ## Open Positions
 ##### [Embedded Systems Engineer](https://github.com/the31337/jobs/blob/master/matternet/embedded-systems-engineer.md)
+##### [Engineering Project Manager](https://github.com/the31337/jobs/blob/master/matternet/engineering-project-manager.md)
 
 ## Location
 ![3511 Edison Way, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=3511+Edison+Way,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
