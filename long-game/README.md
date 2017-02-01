@@ -3,7 +3,7 @@
 Long Game is trying to fix the lack of savings problem that overlaps with the $6B lottery industry. They are creating an app that incentivizes people to save money. For every 20$ they put into their savings, they receive 1 lottery ticket. There is a weekly drawing with prizes up to $1M. The app asks to link your bank account to this new savings account. Long Game makes money from the banks as people are depositing money into their savings accounts.
 
 ## Open Positions
-##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/long-game/full-stack-engineer.md)
+##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/long-game/fullstack-engineer.md)
 
 ## Location
 ![604 Mission St., 4th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=604+Mission+St.,+4th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
