@@ -8,11 +8,6 @@ Founded in 2011, RockIT partners with Bay Area start-ups to build their teams th
 + [Learn about us] (https://www.glassdoor.com/Overview/Working-at-RockIT-Recruiting-EI_IE915412.11,28.htm) on Glassdoor
 + [One of our Partner's] (https://www.linkedin.com/pulse/why-i-still-work-rockit-recruiting-matthew-walker) blogs about why he works at RockIT
 
-## Open Positions
-##### [Recruiting Projects- RPO Manager](https://github.com/the31337/jobs/blob/master/rockit/recruiting-projects-rpo-manager.md)
-##### [Chief People Officer](https://github.com/the31337/jobs/blob/master/rockit/chief-people-officer.md)
-##### [Principal Exec Recruiter](https://github.com/the31337/jobs/blob/master/rockit/principal-exec-recruiter.md)
-
 ## Location
 ![880 Harrison Street, Suite 201, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=880+Harrison+Street,+Suite+201,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
 
