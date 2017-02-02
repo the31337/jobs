@@ -10,7 +10,7 @@ This is a modern, frictionless healthcare experience powering choice with softwa
 ## Open Positions
 ##### [Lead Backend Engineer](https://github.com/the31337/jobs/blob/master/cvstom/lead-backend-engineer.md)
 ##### [Lead Frontend Engineer](https://github.com/the31337/jobs/blob/master/cvstom/lead-frontend-engineer.md)
-
+##### [Lead Mobile Engineer](https://github.com/the31337/jobs/blob/master/cvstom/lead-mobile-engineer.md)
 ## Location
 ![470 Alabama St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=470+Alabama+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C24th+&+Mission+ST,+San+Francisco,+CA)  
 
