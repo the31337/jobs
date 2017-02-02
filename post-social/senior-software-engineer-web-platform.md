@@ -1,4 +1,4 @@
-## Senior Software Engineer, Web Platform
+## Senior Software Engineer - Web Platform
 #### San Francisco, CA
 
 ### Overview

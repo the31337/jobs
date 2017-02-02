@@ -8,7 +8,7 @@ Their software comes in 3 main forms, an iOS App, a Mac OS app, and a Web App. T
 ## Open Positions
 #### [Software Engineer, Platform](https://github.com/the31337/jobs/blob/master/pix-systems/software-engineer-platform.md)
 #### [Designer](https://github.com/the31337/jobs/blob/master/pix-system/designer.md)
-##### [Director of Product Management](https://github.com/the31337/jobs/blob/master/pix-system/director-product-management.md)
+##### [Director of Product Management](https://github.com/the31337/jobs/blob/master/pix-system/director-of-product-management.md)
 ##### [Tools / Internal Engineer](https://github.com/the31337/jobs/blob/master/pix-system/tools-internal-engineer.md)
 
 ## Location

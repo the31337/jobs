@@ -4,8 +4,8 @@
 The average American watches 4.5 hours of TV a day, and cable is the biggest advertising market in the world. It's about time someone created a better user experience. Philo is reinventing TV, starting with universities and small cable providers. With founders coming from Harvard, a CTO from MIT, one of Facebook's founding level engineers as CEO, and an extremely talented engineering team, they are beginning their journey to become like Spotify for your TV.
 
 ## Open Positions
-#### [Backend Software Engineer](https://github.com/the31337/jobs/blob/master/philo/back-end-software-engineer.md)
-#### [Frontend Software Engineer](https://github.com/the31337/jobs/blob/master/philo/front-end-software-engineer.md)
+#### [Backend Engineer](https://github.com/the31337/jobs/blob/master/philo/backend-engineer.md)
+#### [Frontend Engineer](https://github.com/the31337/jobs/blob/master/philo/frontend-engineer.md)
 ##### [Senior iOS Engineer](https://github.com/the31337/jobs/blob/master/philo/senior-ios-engineer.md)
 ##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/philo/fullstack-engineer.md)
 

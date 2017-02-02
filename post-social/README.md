@@ -12,7 +12,7 @@ Imagine if you could rip out retweet from Twitter and replace it with something 
 We work mostly distributedly around the Bay Area. We are nearing the end of our alpha. Now is the perfect time to join us :)
 
 ## Open Positions
-##### [Senior Software Engineer, Web Platform](https://github.com/the31337/jobs/blob/master/post-social/senior-software-engineer-web-platform.md)
+##### [Senior Software Engineer - Web Platform](https://github.com/the31337/jobs/blob/master/post-social/senior-software-engineer-web-platform.md)
 ##### [Senior iOS Developer](https://github.com/the31337/jobs/blob/master/post-social/senior-ios-engineer.md)
 
 ## Location
