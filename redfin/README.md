@@ -3,8 +3,8 @@
 Redfin is making real estate easy. They have a huge real-world impact by helping create transparency and efficiency in the real estate market. With everything from scheduling house viewings to automating digital home tours, Redfin is leveling the playing field and using data to really create a full picture. With 8 rounds of funding and a great engineering culture, they're on their way to dominate the real estate market. Engineering has a direct influence on the product, now is the perfect time join.
 
 ## Open Positions
-##### [Sr. Product Manager (Customer Engagement)](https://github.com/the31337/jobs/blob/master/redfin/senior-product-manager-customer-engagement.md)
-##### [Sr. Fullstack Engineer (Customer Growth)](https://github.com/the31337/jobs/blob/master/redfin/senior-fullstack-engineer-customer-growth.md)
+##### [Senior Product Manager (Customer Engagement)](https://github.com/the31337/jobs/blob/master/redfin/senior-product-manager-customer-engagement.md)
+##### [Senior Fullstack Engineer (Customer Growth)](https://github.com/the31337/jobs/blob/master/redfin/senior-fullstack-engineer-customer-growth.md)
 
 ## Location
 ![655 Montgomery St., Suite 1500, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=655+Montgomery+St.,+Suite+1500,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

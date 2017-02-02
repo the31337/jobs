@@ -1,4 +1,4 @@
-## Senior Software Engineer | Platform
+## Senior Software Engineer - Platform
 #### Redwood City, CA
 
 ### Quick Summary

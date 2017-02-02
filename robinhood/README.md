@@ -6,7 +6,7 @@ We are built by a tight-knit team of engineers and designers united by the belie
 We offer competitive compensation packages (salary + equity), health and vision insurance, and liberal vacation policies. Perks include daily catered meals, a fully stocked kitchen, gym memberships, company retreats, and custom workstations.  We’re headquartered in sunny Palo Alto, CA.
 
 ## Open Positions
-##### [Security Engineering Lead](https://github.com/the31337/jobs/blob/master/robinhood/security-engineerin-lead.md)
+##### [Security Engineering Lead](https://github.com/the31337/jobs/blob/master/robinhood/security-engineering-lead.md)
 
 ## Location
 ![3200 Ash St, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=3200+Ash+St,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
