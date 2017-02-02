@@ -5,7 +5,7 @@ Shift is the easiest way for people to buy and sell used cars in the peer-to-pee
 ## Open Positions
 ##### [Infrastructure Engineer](https://github.com/the31337/jobs/blob/master/shift-technologies/infrastructure-engineer.md)
 ##### [Fullstack Engineer (React/Go)](https://github.com/the31337/jobs/blob/master/shift-technologies/full-stack-engineer-react-go.md)
-##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/shift-technologies/product-engineer-ios.md)
+##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/shift-technologies/ios-engineer.md)
 
 ## Location
 ![2500 Market St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2500+Market+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
