@@ -10,16 +10,16 @@ Hungry – we expect high performance; constantly innovating & improving
 Happy – love what you do; life is more than work
 Humble – customer-first; “we” rather than “I”
 Honest – transparency & integrity
-
+ 
 ## Open Positions
-##### [Senior Front-end Software Engineer (Labs)](https://github.com/the31337/jobs/blob/master/sendgrid/senior-front-end-engineer-labs.md)
-##### [Senior Product Manager (Labs)](https://github.com/the31337/jobs/blob/master/sendgrid/senior-product-manager-labs.md)
-##### [Senior Software Engineer (Fullstack) (Labs)](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-full-stack-labs.md)
-##### [Software Engineer (Full Stack)](https://github.com/the31337/jobs/blob/master/sendgrid/software-engineer-full-stack.md)
+##### [Senior Frontend Software Engineer - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-frontend-software-engineer-labs.md)
+##### [Senior Product Manager - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-product-manager-labs.md)
+##### [Senior Software Engineer (Fullstack) - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-fullstack-labs.md)
+##### [Software Engineer (Full Stack)](https://github.com/the31337/jobs/blob/master/sendgrid/software-engineer-fullstack.md)
 ##### [Director of PM - MCAM](https://github.com/the31337/jobs/blob/master/sendgrid/director-of-pm-mcam.md)
-##### [Senior Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/sr-software-engineer-marketing-apps.md)
-##### [Manager of Software Engineering - Marketing Campaigns](https://github.com/the31337/jobs/blob/master/sendgrid/software-engineering-manager-marketing-campaigns.md)
-##### [Senior Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/sr-software-engineer-marketing-apps.md)
+##### [Senior Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-marketing-apps.md)
+##### [Software Engineering Manager (Marketing Campaigns)](https://github.com/the31337/jobs/blob/master/sendgrid/software-engineering-manager-marketing-campaigns.md)
+##### [Senior Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-marketing-apps.md)
 
 ## Location
 ![401 Warren St., Floor 2, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=401+Warren+St.,+Floor+2,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C401+Warren+St.,+Floor+2,+Redwood+City,+CA)  

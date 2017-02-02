@@ -1,4 +1,4 @@
-## Manager of Software Engineering - Marketing Campaigns
+## Software Engineering Manager (Marketing Campaigns)
 #### Redwood City, CA
 
 ### The Pitch (About the role)

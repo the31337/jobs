@@ -4,8 +4,8 @@ Seesaw is a student driven digital portfolio which allows parents to see what th
 
 ## Open Positions
 ##### [Android Engineer](https://github.com/the31337/jobs/blob/master/seesaw-learning/android-engineer.md)
-##### [iOS Software Engineer](https://github.com/the31337/jobs/blob/master/seesaw-learning/ios-software-engineer.md)
-##### [Generalist Software Engineer](https://github.com/the31337/jobs/blob/master/seesaw-learning/generalist-software-engineer.md)
+##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/seesaw-learning/ios-engineer.md)
+##### [Software Engineer Generalist](https://github.com/the31337/jobs/blob/master/seesaw-learning/software-engineer-generalist.md)
 
 ## Location
 ![180 Montgomery Street, Suite 1580, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=180+Montgomery+Street,+Suite+1580,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
