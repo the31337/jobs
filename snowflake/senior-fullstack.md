@@ -1,4 +1,4 @@
-## Senior Fullstack Engineer
+## Senior Fullstack
 #### San Mateo, California
 
 ### Overview

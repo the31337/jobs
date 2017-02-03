@@ -6,7 +6,7 @@ To achieve that, we have assembled a team of experts: https://www.snowflake.net/
 
 ## Open Positions
 #### [Senior Backend Engineer](https://github.com/the31337/jobs/blob/master/snowflake/senior-backend-engineer.md)
-##### [Senior Fullstack](https://github.com/the31337/jobs/blob/master/snowflake/senior-full-stack-engineer.md)
+##### [Senior Fullstack](https://github.com/the31337/jobs/blob/master/snowflake/senior-fullstack.md)
 ##### [Senior Query Processing Engineer](https://github.com/the31337/jobs/blob/master/snowflake/senior-query-processing-engineer.md)
 
 ## Location

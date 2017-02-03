@@ -8,7 +8,7 @@ General overview video - https://www.youtube.com/watch?v=rYhPDn48-Sg
 Drone roof inspection via Skydio - https://www.youtube.com/watch?v=l4D8ErMMvnQ
 
 ## Open Positions
-##### [Computer Vision Engineer](https://github.com/the31337/jobs/blob/master/skydio/software-engineer-computer-vision.md)
+##### [Computer Vision Engineer](https://github.com/the31337/jobs/blob/master/skydio/computer-vision-engineer.md)
 ##### [iOS Developer](https://github.com/the31337/jobs/blob/master/skydio/ios-developer.md)
 
 ## Location

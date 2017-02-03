@@ -7,9 +7,9 @@ Spire builds respiration sensing wearables that take bio-sensing beyond activity
 Spire’s first product, a consumer wearable available at https://www.spire.io, Amazon and Apple, uses respiratory patterns to infer a wearer’s state-of-mind (tense, calm, focused). The app provides feedback that's been proven to lower tension and increase calm and focus in everyday life. Clinical applications of the device and technology are currently being piloted.
 
 ## Open Positions
-##### [Android Engineer](https://github.com/the31337/jobs/blob/master/spire/software-development-engineer-android.md)
+##### [Android Engineer](https://github.com/the31337/jobs/blob/master/spire/android-engineer.md)
 ##### [Devops Platform Architect](https://github.com/the31337/jobs/blob/master/spire/devops-platform-architect.md)
-##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/spire/software-development-engineer-ios.md)
+##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/spire/ios-engineer.md)
 
 ## Location
 ![2030 Harrison St. 2nd floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2030+Harrison+St.+2nd+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
