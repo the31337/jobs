@@ -1,3 +1,4 @@
+
 # Current Openings
 
 ## [Affirm](https://github.com/the31337/jobs/tree/master/affirm-inc)
@@ -24,8 +25,8 @@
 
 ## [App Annie](https://github.com/the31337/jobs/tree/master/app-annie)
 ###### San Francisco, CA
-+ [Senior UX Designer](https://github.com/the31337/jobs/blob/master/app-annie/senior-ux-designer.md)
 + [VP of UX](https://github.com/the31337/jobs/blob/master/app-annie/vp-of-ux.md)
++ [Senior UX Designer](https://github.com/the31337/jobs/blob/master/app-annie/senior-ux-designer.md)
 
 ## [Banjo](https://github.com/the31337/jobs/tree/master/banjo)
 ###### Redwood City, CA
@@ -69,6 +70,7 @@
 
 ## [Cvstom](https://github.com/the31337/jobs/tree/master/cvstom)
 ###### San Francisco, CA
++ [  Lead Mobile Engineer](https://github.com/the31337/jobs/blob/master/cvstom/lead-mobile-engineer.md)
 + [Lead Backend Engineer](https://github.com/the31337/jobs/blob/master/cvstom/lead-backend-engineer.md)
 + [Lead Frontend Engineer](https://github.com/the31337/jobs/blob/master/cvstom/lead-frontend-engineer.md)
 
@@ -78,12 +80,13 @@
 
 ## [Doxel](https://github.com/the31337/jobs/tree/master/doxel)
 ###### Menlo Park, CA
++ [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/doxel/fullstack-engineer.md)
 + [SLAM Engineer](https://github.com/the31337/jobs/blob/master/doxel/slam-engineer.md)
 
 ## [DroneDeploy](https://github.com/the31337/jobs/tree/master/drone-deploy)
 ###### San Francisco, CA
-+ [DevOps Engineer SRE](https://github.com/the31337/jobs/blob/master/drone-deploy/devops-engineer-sre.md)
 + [Senior Computer Vision Engineer](https://github.com/the31337/jobs/blob/master/drone-deploy/senior-computer-vision-engineer.md)
++ [DevOps Engineer SRE](https://github.com/the31337/jobs/blob/master/drone-deploy/devops-engineer-sre.md)
 + [Lead UX Designer](https://github.com/the31337/jobs/blob/master/drone-deploy/lead-ux-designer.md)
 
 ## [Even](https://github.com/the31337/jobs/tree/master/even)
@@ -93,8 +96,8 @@
 ## [Glint](https://github.com/the31337/jobs/tree/master/glint)
 ###### Redwood City, CA
 + [Engineering Director](https://github.com/the31337/jobs/blob/master/glint/engineering-director.md)
-+ [Data Platform Engineer](https://github.com/the31337/jobs/blob/master/glint/data-platform-engineer.md)
 + [Associate Systems Engineer](https://github.com/the31337/jobs/blob/master/glint/associate-systems-engineer.md)
++ [Data Platform Engineer](https://github.com/the31337/jobs/blob/master/glint/data-platform-engineer.md)
 + [Systems Engineer](https://github.com/the31337/jobs/blob/master/glint/systems-engineer.md)
 + [Senior Web Application Engineer](https://github.com/the31337/jobs/blob/master/glint/senior-web-applications-engineer.md)
 
@@ -110,6 +113,7 @@
 
 ## [Houseparty](https://github.com/the31337/jobs/tree/master/houseparty)
 ###### San Francisco, CA
++ [Android Engineer](https://github.com/the31337/jobs/blob/master/houseparty/android-engineer.md)
 + [Backend Engineer](https://github.com/the31337/jobs/blob/master/houseparty/backend-engineer.md)
 + [iOS Lead](https://github.com/the31337/jobs/blob/master/houseparty/ios-lead.md)
 
@@ -120,6 +124,10 @@
 + [Senior Product Manager](https://github.com/the31337/jobs/blob/master/inkling/senior-product-manager.md)
 + [Senior Backend Engineer](https://github.com/the31337/jobs/blob/master/inkling/senior-backend-engineer.md)
 + [Senior Javascript Engineer](https://github.com/the31337/jobs/blob/master/inkling/senior-javascript-engineer.md)
+
+## [Jyve](https://github.com/the31337/jobs/tree/master/jyve)
+###### San Francisco, CA
++ [Frontend Engineer (Hybrid Designer)](https://github.com/the31337/jobs/blob/master/jyve/frontend-engineer-hybrid-designer.md)
 
 ## [Kiddom](https://github.com/the31337/jobs/tree/master/kiddom)
 ###### San Francisco, CA
@@ -133,27 +141,36 @@
 ###### Menlo Park, CA
 + [Fullstack Engineer (Agnostic, Clojure)](https://github.com/the31337/jobs/blob/master/ladder-life/full-stack-engineer-agnostic-clojure.md)
 
+## Lantern
+###### San Francisco, CA
++ [ QA Engineer](https://github.com/the31337/jobs/blob/master/lantern/qa-engineer.md)
++ [ iOS Engineer](https://github.com/the31337/jobs/blob/master/lantern/ios-engineer.md)
+
 ## [LearnUp](https://github.com/the31337/jobs/tree/master/learnup)
 ###### San Francisco, CA
 + [Product Manager](https://github.com/the31337/jobs/blob/master/learnup/product-manager.md)
 
+## LendUp
+###### San Francisco, CA
++ [Senior DevOps Engineer](https://github.com/the31337/jobs/blob/master/lendup/senior-devops-engineer.md)
+
 ## [LiveRamp](https://github.com/the31337/jobs/tree/master/liveramp)
 ###### San Francisco, CA
-+ [Team Lead Fullstack Engineer](https://github.com/the31337/jobs/blob/master/liveramp/team-lead-full-stack.md)
-+ [Senior DevOps Engineer](https://github.com/the31337/jobs/blob/master/liveramp/senior-engineer-devops.md)
++ [Team Lead Fullstack Engineer](https://github.com/the31337/jobs/blob/master/liveramp/team-lead-fullstack-engineer.md)
++ [Senior DevOps Engineer](https://github.com/the31337/jobs/blob/master/liveramp/senior-devops-engineer.md)
 + [Data Scientist](https://github.com/the31337/jobs/blob/master/liveramp/data-scientist.md)
-+ [Team Lead Backend Engineer](https://github.com/the31337/jobs/blob/master/liveramp/team-lead-backend.md)
++ [Team Lead Backend Engineer](https://github.com/the31337/jobs/blob/master/liveramp/team-lead-backend-engineer.md)
 + [UX Engineer](https://github.com/the31337/jobs/blob/master/liveramp/ux-engineer.md)
 + [Senior Platform Engineer](https://github.com/the31337/jobs/blob/master/liveramp/senior-platform-engineer.md)
-+ [Senior Fullstack Engineer](https://github.com/the31337/jobs/blob/master/liveramp/senior-engineer-full-stack.md)
++ [Senior Fullstack Engineer](https://github.com/the31337/jobs/blob/master/liveramp/senior-fullstack-engineer.md)
 
 ## [Long Game](https://github.com/the31337/jobs/tree/master/long-game)
 ###### San Francisco, CA
-+ [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/long-game/full-stack-engineer.md)
++ [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/long-game/fullstack-engineer.md)
 
 ## Luxottica
 ###### San Francisco, CA
-+ [Frontend Engineer](https://github.com/the31337/jobs/blob/master/luxottica/front-end-engineer.md)
++ [Frontend Engineer](https://github.com/the31337/jobs/blob/master/luxottica/fronеend-engineer.md)
 
 ## [Matternet](https://github.com/the31337/jobs/tree/master/matternet)
 ###### Menlo Park, CA
@@ -166,7 +183,7 @@
 ## [Mixmax](https://github.com/the31337/jobs/tree/master/mixmax)
 ###### San Francisco, CA
 + [Site Reliability Engineer](https://github.com/the31337/jobs/blob/master/mixmax/site-reliability-engineer.md)
-+ [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/mixmax/full-stack-engineer.md)
++ [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/mixmax/fullstack-engineer.md)
 + [Data Pipeline Engineer](https://github.com/the31337/jobs/blob/master/mixmax/data-pipeline-engineer.md)
 + [Integration Engineer](https://github.com/the31337/jobs/blob/master/mixmax/integration-engineer.md)
 + [Backend Engineer](https://github.com/the31337/jobs/blob/master/mixmax/backend-engineer.md)
@@ -175,38 +192,34 @@
 ###### San Francisco, CA
 + [Lead Backend Engineer](https://github.com/the31337/jobs/blob/master/momentum-machines/lead-backend-engineer.md)
 
-## [Navdy](https://github.com/the31337/jobs/tree/master/navdy)
-###### San Francisco, CA
-+ [Senior iOS Engineer](https://github.com/the31337/jobs/blob/master/navdy/senior-mobile-app-developer-ios-or-android.md)
-
 ## [Nima](https://github.com/the31337/jobs/tree/master/nima)
 ###### San Francisco, CA
-+ [iOS Engineer](https://github.com/the31337/jobs/blob/master/nima/ios-developer.md)
++ [iOS Engineer](https://github.com/the31337/jobs/blob/master/nima/ios-engineer.md)
+
+## Nominum
+###### Redwood City, CA
++ [Principal Platform Engineer](https://github.com/the31337/jobs/blob/master/nominum/principal-platform-engineer.md)
++ [Fullstack Frontend Developer](https://github.com/the31337/jobs/blob/master/nominum/fullstack-frontend-developer.md)
 
 ## [Nurx](https://github.com/the31337/jobs/tree/master/nurx)
 ###### San Francisco, CA
-+ [Frontend Engineer](https://github.com/the31337/jobs/blob/master/nurx/front-end-engineer.md)
 + [iOS Engineer](https://github.com/the31337/jobs/blob/master/nurx/ios-engineer.md)
++ [Frontend Engineer](https://github.com/the31337/jobs/blob/master/nurx/frontend-engineer.md)
 + [Infrastructure Engineer](https://github.com/the31337/jobs/blob/master/nurx/infrastructure-engineer.md)
-
-## [OpenTable](https://github.com/the31337/jobs/tree/master/opentable)
-###### San Francisco, CA
-+ [Senior Fullstack Engineer (Node)](https://github.com/the31337/jobs/blob/master/opentable/senior-full-stack-engineer-node.md)
-+ [Senior Software Engineer (Java)](https://github.com/the31337/jobs/blob/master/opentable/senior-software-engineer-java.md)
 
 ## [PIX Systems](https://github.com/the31337/jobs/tree/master/pix-system)
 ###### San Francisco, CA
 + [Platform Engineer](https://github.com/the31337/jobs/blob/master/pix-system/platform-engineer.md)
 + [Tools / Internal Engineer](https://github.com/the31337/jobs/blob/master/pix-system/tools-internal-engineer.md)
 + [Designer](https://github.com/the31337/jobs/blob/master/pix-system/designer.md)
-+ [Director of Product Management](https://github.com/the31337/jobs/blob/master/pix-system/director-product-management.md)
++ [Director of Product Management](https://github.com/the31337/jobs/blob/master/pix-system/director-of-product-management.md)
 
 ## [Philo](https://github.com/the31337/jobs/tree/master/philo)
 ###### San Francisco, CA
-+ [Backend Engineer](https://github.com/the31337/jobs/blob/master/philo/back-end-software-engineer.md)
++ [Backend Engineer](https://github.com/the31337/jobs/blob/master/philo/backend-engineer.md)
 + [Senior iOS Engineer](https://github.com/the31337/jobs/blob/master/philo/senior-ios-engineer.md)
 + [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/philo/fullstack-engineer.md)
-+ [Frontend Engineer](https://github.com/the31337/jobs/blob/master/philo/front-end-software-engineer.md)
++ [Frontend Engineer](https://github.com/the31337/jobs/blob/master/philo/frontend-engineer.md)
 
 ## [Post Social](https://github.com/the31337/jobs/tree/master/post-social)
 ###### Remote, CA
@@ -219,8 +232,9 @@
 
 ## [Rabbit](https://github.com/the31337/jobs/tree/master/rabbit)
 ###### Redwood City, CA
++ [Senior Software Engineer - Platform](https://github.com/the31337/jobs/blob/master/rabbit/senior-software-engineer-platform.md)
 + [Senior Web Developer](https://github.com/the31337/jobs/blob/master/rabbit/senior-web-developer.md)
-+ [Senior Software Engineer Realtime Audio/Video Streaming](https://github.com/the31337/jobs/blob/master/rabbit/senior-software-engineer-real-time-audio-video-networking.md)
++ [Senior Software Engineer Realtime Audio/Video Streaming](https://github.com/the31337/jobs/blob/master/rabbit/senior-software-engineer-realtime-audio-video-streaming.md)
 + [Product Manager](https://github.com/the31337/jobs/blob/master/rabbit/product-manager.md)
 
 ## [Redfin](https://github.com/the31337/jobs/tree/master/redfin)
@@ -240,18 +254,13 @@
 
 ## Robinhood
 ###### Palo Alto, CA
-+ [Security Engineering Lead](https://github.com/the31337/jobs/blob/master/robinhood/security-engineerin-lead.md)
-
-## RockIT Recruiting
-+ [Chief People Officer](https://github.com/the31337/jobs/blob/master/rockit/chief-people-officer.md)
-+ [Principal Executive Recruiter](https://github.com/the31337/jobs/blob/master/rockit/principal-exec-recruiter.md)
-+ [Recruiting Projects - RPO Manager](https://github.com/the31337/jobs/blob/master/rockit/recruiting-projects-rpo-manager.md)
++ [Security Engineering Lead](https://github.com/the31337/jobs/blob/master/robinhood/security-engineering-lead.md)
 
 ## [Seesaw Learning](https://github.com/the31337/jobs/tree/master/seesaw-learning)
 ###### San Francisco, CA
 + [Android Engineer](https://github.com/the31337/jobs/blob/master/seesaw-learning/android-engineer.md)
-+ [iOS Engineer](https://github.com/the31337/jobs/blob/master/seesaw-learning/ios-software-engineer.md)
-+ [Software Engineer Generalist](https://github.com/the31337/jobs/blob/master/seesaw-learning/generalist-software-engineer.md)
++ [iOS Engineer](https://github.com/the31337/jobs/blob/master/seesaw-learning/ios-engineer.md)
++ [Software Engineer Generalist](https://github.com/the31337/jobs/blob/master/seesaw-learning/software-engineer-generalist.md)
 
 ## [Segment](https://github.com/the31337/jobs/tree/master/segment)
 ###### San Francisco, CA
@@ -262,14 +271,12 @@
 
 ## [Sendgrid](https://github.com/the31337/jobs/tree/master/sendgrid)
 ###### Redwood City, CA
-+ [Senior Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/sr-software-engineer-marketing-apps.md)
++ [Senior Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-marketing-apps.md)
 + [Software Engineering Manager (Marketing Campaigns)](https://github.com/the31337/jobs/blob/master/sendgrid/software-engineering-manager-marketing-campaigns.md)
 + [Director of PM - MCAM](https://github.com/the31337/jobs/blob/master/sendgrid/director-of-pm-mcam.md)
-+ [Senior Frontend Software Engineer - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-front-end-software-engineer-labs.md)
-+ [Software Engineer (Fullstack)](https://github.com/the31337/jobs/blob/master/sendgrid/software-engineer-full-stack.md)
 + [Senior Product Manager - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-product-manager-labs.md)
 + [Principal Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/principal-software-engineer-marketing-apps.md)
-+ [Senior Software Engineer (Fullstack) - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-full-stack-labs.md)
++ [Senior Software Engineer (Fullstack) - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-fullstack-labs.md)
 
 ## [Sequoia Heritage](https://github.com/the31337/jobs/tree/master/sequoia-heritage)
 ###### Menlo Park, CA
@@ -277,29 +284,29 @@
 
 ## [Shift Technologies](https://github.com/the31337/jobs/tree/master/shift-technologies)
 ###### San Francisco, CA
-+ [iOS Engineer](https://github.com/the31337/jobs/blob/master/shift-technologies/product-engineer-ios.md)
++ [iOS Engineer](https://github.com/the31337/jobs/blob/master/shift-technologies/ios-engineer.md)
 + [Infrastructure Engineer](https://github.com/the31337/jobs/blob/master/shift-technologies/infrastructure-engineer.md)
 + [Fullstack Engineer (React/Go)](https://github.com/the31337/jobs/blob/master/shift-technologies/full-stack-engineer-react-go.md)
 
 ## [SimplyInsured](https://github.com/the31337/jobs/tree/master/simplyinsured)
 ###### San Francisco, CA
-+ [Senior Fullstack Software Engineer (Ruby on Rails)](https://github.com/the31337/jobs/blob/master/simplyinsured/senior-full-stack-software-engineer.md)
++ [Senior Fullstack Software Engineer (Ruby on Rails)](https://github.com/the31337/jobs/blob/master/simplyinsured/senior-fullstack-software-engineer-ruby-on-rails.md)
 
 ## [Skydio](https://github.com/the31337/jobs/tree/master/skydio)
 ###### Redwood City, CA
 + [ iOS Developer](https://github.com/the31337/jobs/blob/master/skydio/ios-developer.md)
-+ [Computer Vision Engineer](https://github.com/the31337/jobs/blob/master/skydio/software-engineer-computer-vision.md)
++ [Computer Vision Engineer](https://github.com/the31337/jobs/blob/master/skydio/computer-vision-engineer.md)
 
 ## [Snowflake](https://github.com/the31337/jobs/tree/master/snowflake)
 ###### San Mateo, CA
-+ [Senior Query Processing Engineer](https://github.com/the31337/jobs/blob/master/snowflake/senior-query-processing-engineer.md)
-+ [Senior Fullstack](https://github.com/the31337/jobs/blob/master/snowflake/senior-full-stack-engineer.md)
 + [Senior Backend Engineer](https://github.com/the31337/jobs/blob/master/snowflake/senior-backend-engineer.md)
++ [Senior Query Processing Engineer](https://github.com/the31337/jobs/blob/master/snowflake/senior-query-processing-engineer.md)
++ [Senior Fullstack](https://github.com/the31337/jobs/blob/master/snowflake/senior-fullstack.md)
 
 ## [Spire](https://github.com/the31337/jobs/tree/master/spire)
 ###### San Francisco, CA
-+ [Android Engineer](https://github.com/the31337/jobs/blob/master/spire/software-development-engineer-android.md)
-+ [ iOS Engineer](https://github.com/the31337/jobs/blob/master/spire/software-development-engineer-ios.md)
++ [Android Engineer](https://github.com/the31337/jobs/blob/master/spire/android-engineer.md)
++ [ iOS Engineer](https://github.com/the31337/jobs/blob/master/spire/ios-engineer.md)
 + [Devops Platform Architect](https://github.com/the31337/jobs/blob/master/spire/devops-platform-architect.md)
 
 ## [Stockpile](https://github.com/the31337/jobs/tree/master/stockpile)
@@ -340,8 +347,8 @@
 
 ## [Velodyne LiDAR](https://github.com/the31337/jobs/tree/master/velodyne-lidar-inc)
 ###### Morgan Hill, CA
-+ [Automotive Sensor Product Manager](https://github.com/the31337/jobs/blob/master/velodyne-lidar-inc/automotive-sensor-product-manager.md)
 + [Director of Supply Chain](https://github.com/the31337/jobs/blob/master/velodyne-lidar-inc/director-of-supply-chain.md)
++ [Automotive Sensor Product Manager](https://github.com/the31337/jobs/blob/master/velodyne-lidar-inc/automotive-sensor-product-manager.md)
 + [Director of Programs](https://github.com/the31337/jobs/blob/master/velodyne-lidar-inc/director-of-programs.md)
 
 ## [Wavefront](https://github.com/the31337/jobs/tree/master/wavefront)
@@ -358,6 +365,7 @@
 ## [Weaveworks](https://github.com/the31337/jobs/tree/master/weaveworks)
 ###### San Francisco, CA
 + [Developer Experience Engineer (Dev Advocate)](https://github.com/the31337/jobs/blob/master/weaveworks/developer-experience-engineer-dev-advocate.md)
++ [Backend Engineer (Go)](https://github.com/the31337/jobs/blob/master/weaveworks/backend-software-engineer.md)
 
 ## [Zipcar](https://github.com/the31337/jobs/tree/master/zipcar)
 ###### San Mateo, CA
