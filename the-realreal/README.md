@@ -7,7 +7,7 @@ Our team of luxury experts, authentication specialists and skilled gemologists e
 Through the use of “flash sales” create an easy environment for the selling and buying of luxury fashion.
 
 ## Open Positions
-#### [Ruby on Rails Engineer](https://github.com/the31337/the-realreal/blob/master/rails-engineer.md)
+#### [Rails Engineer](https://github.com/the31337/the-realreal/blob/master/rails-engineer.md)
 
 ## Location
 ![1980 Oakdale Ave, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1980+Oakdale+Ave,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
