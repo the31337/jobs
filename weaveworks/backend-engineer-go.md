@@ -1,4 +1,4 @@
-## Backend Software Engineer
+## Backend Engineer (Go)
 #### San Francisco, CA
 
 ### Quick Summary

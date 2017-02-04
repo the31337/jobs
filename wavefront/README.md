@@ -3,11 +3,11 @@
 A real-time analytics platform that helps both small and large companies ensure their data systems are performing optimally and efficiently. With so many companies focusing on big data as an integral part of their product, Wavefront allows these companies to scale all of that data by monitoring the health of the systems and preventing outages.
 
 ## Open Positions
-##### [Principal Backend](https://github.com/the31337/jobs/blob/master/wavefront/principal-backend-engineer.md)
+##### [Principal Backend](https://github.com/the31337/jobs/blob/master/wavefront/principal-backend.md)
 ##### [Senior Software Engineer (Java)](https://github.com/the31337/jobs/blob/master/wavefront/senior-software-engineer-java.md)
 ##### [QA Engineer](https://github.com/the31337/jobs/blob/master/wavefront/qa-engineer.md)
-##### [Integrations Engineer](https://github.com/the31337/jobs/blob/master/wavefront/software-engineer-integrations.md)
-##### [Senior Operations](https://github.com/the31337/jobs/blob/master/wavefront/senior-operations-engineer.md)
+##### [Integrations Engineer](https://github.com/the31337/jobs/blob/master/wavefront/integrations-engineer.md)
+##### [Senior Operations](https://github.com/the31337/jobs/blob/master/wavefront/senior-operations.md)
 
 ## Location
 ![195 Page Mill Road #109, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=195+Page+Mill+Road+#109,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

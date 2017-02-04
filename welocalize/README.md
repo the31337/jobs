@@ -3,7 +3,7 @@
 Wavefront is a real-time analytics platform that helps both small and large companies ensure their data systems are performing optimally and efficiently. With so many companies focusing on big data as an integral part of their product, Wavefront allows these companies to scale all of that data by monitoring the health of the systems and preventing outages.
 
 ## Open Positions
-##### [Director of Global Communities (Sr. Community Manager)](https://github.com/the31337/jobs/blob/master/welocalize/director-of-global-communities-senior-community-manager.md)
+##### [Director of Global Communities (Sr. Community Manager)](https://github.com/the31337/jobs/blob/master/welocalize/director-of-global-communities-sr-community-manager.md)
 
 ## Location
 ![241 East 4th St. Suite 207, Frederick, MD](https://maps.googleapis.com/maps/api/staticmap?center=241+East+4th+St.+Suite+207,+Frederick,+MD&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

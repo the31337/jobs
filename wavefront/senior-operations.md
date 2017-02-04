@@ -1,4 +1,4 @@
-## Senior Operations Engineer
+## Senior Operations
 #### Palo Alto, CA
 
 ### About Us:
