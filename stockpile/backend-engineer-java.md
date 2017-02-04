@@ -1,4 +1,4 @@
-## Senior Front End Engineer (Angular, React)
+## Backend Engineer (Java)
 #### Palo Alto, CA
 
 ### Quick Summary
@@ -9,17 +9,19 @@ Our mission is to democratize stock ownership. 86% of the population has never h
 Based in Palo Alto, we’re a venture-backed, and our team comes from companies like Facebook, PayPal, and E*Trade. We’ve been featured in the Wall Street Journal, CNBC, Consumer Reports, and many others. We’re building a team of exceptionally talented people to join us on our mission, and would love to talk to you!
 
 ### Job Description
-+ Delivering a complete front end application
-+ Build visualizations and analytics to make complex ideas clear and intuitive
-+ Collaborating with the designer in the process of creating design mock ups
-+ Collaborating with the back-end developer in the process of building the RESTful API
-+ Help improve user experience and performance of our web application and our front-end infrastructure.
-+ Write simple, elegant, cross-browser Javascript, HTML and CSS
++	Design, implement, test and maintain backend components: application, data, infrastructure, analytics and deployment
++	Design and build systems with automated instrumentation and monitoring
++	Design and Implement RESTful APIs for our merchants
++	Live and breathe reliability and up-time
++	Consistently improve maintainability and stability of the codebase
++	Identify and resolve performance and Scalability issues
 
 ### Qualifications
-+ Passion and drive to change financial investing for the better
-+ Expertise in the browser web stack (HTML5/CSS)
-+ Expert knowledge of JavaScript, familiarity with jQuery a plus
-+ Experience with Angular.js OR React.js
-+ Passion for agile, test-driven development, continuous integration and automated testing
-+ BS,MS or PhD in Computer Science or a related technical field preferred
++	Passion and drive to change financial investing for the better
++	Experience with Java or any other backend language (such as C, C++, C#)
++	Experience with MySql or any other online data stores.
++	Experience with Hadoop or NoSql data stores.
++	Experience with at-least one scripting language such as Python.
++	Passion for agile, test-driven development, continuous integration and automated testing
++	Solid understanding of distributed systems and functional programming paradigms
++	BS,MS or PhD in Computer Science or a related technical field preferred
