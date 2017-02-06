@@ -6,8 +6,8 @@ Affirm is an SF financial tech start-up that is headed by Max Levchin (PayPal Ma
 ## Open Positions
 #### [Senior Android Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/senior-android-engineer.md)
 #### [Platform Engineer (Python)](https://github.com/the31337/jobs/blob/master/affirm-inc/platform-engineer-python.md)
-#### [Site Reliability Engineer (Devops/SRE)](https://github.com/the31337/jobs/blob/master/affirm-inc/site-reliability-engineer-devops-sre.md)
-#### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/fullstack-engineer.md)
+#### [Site Reliability Engineer (Devops/SRE)](https://github.com/the31337/jobs/blob/master/affirm-inc/site-reliability-engineer-sre-devops.md)
+#### [Software Engineer - FullStack](https://github.com/the31337/jobs/blob/master/affirm-inc/fullstack-engineer.md)
 #### [Infrastructure Engineer (Python)](https://github.com/the31337/jobs/blob/master/affirm-inc/infrastructure-engineer-python.md)
 #### [Machine Learning Engineer](https://github.com/the31337/jobs/blob/master/affirm-inc/machine-learning-engineer.md)
 
