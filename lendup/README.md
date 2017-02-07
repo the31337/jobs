@@ -9,6 +9,7 @@ We are continuing to build the next generation of dignified financial products t
 
 ## Open Positions
 ##### [Senior DevOps Engineer](https://github.com/the31337/jobs/blob/master/lendup/senior-devops-engineer.md)
+##### [Principal Backend Engineer](https://github.com/the31337/jobs/blob/master/lendup/principal-backend-engineer.md)
 
 ## Location
 ![225 Bush Street, 11 Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=225+Bush+Street,+11+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
