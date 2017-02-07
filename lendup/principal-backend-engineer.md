@@ -20,7 +20,7 @@ One of the most pressing objectives of our company is developing an interface wh
 +	Work cross-functionally with our Product and Customer Insights teams to understand the customer and how to build the most appropriate features
 +	Apply technology to a market that had seen little to no technological disruption before
 
-What we look for
+### What we look for
 +	Significant experience as a professional software developer in a team environment
 +	Experience guiding development teams from a technical perspective, either as a tech lead or manager
 +	Past experience making technical decisions in a professional setting
