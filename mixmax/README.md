@@ -3,11 +3,11 @@
 RockIT uses it every day and for many of us, life without it is unthinkable.  And as it turns out, we aren't alone in feeling that way.  They have customers and lots of them. Their revenue is trending up and up and are a month or two away from achieving profitability.   Not bad for a 3-year old company of 11 people who raised slightly less than ~3MM in seed capital.  These guys are doing it right.
 
 ## Open Positions
-##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/mixmax/fullstack-engineer.md)
-##### [Backend Engineer](https://github.com/the31337/jobs/blob/master/mixmax/backend-engineer.md)
-##### [Integration Engineer](https://github.com/the31337/jobs/blob/master/mixmax/integration-engineer.md)
-##### [Data Pipeline Engineer](https://github.com/the31337/jobs/blob/master/mixmax/data-pipeline-engineer.md)
-##### [Site Reliability Engineer](https://github.com/the31337/jobs/blob/master/mixmax/site-reliability-engineer.md)
+##### [Fullstack Engineer](fullstack-engineer.md)
+##### [Backend Engineer](backend-engineer.md)
+##### [Integration Engineer](integration-engineer.md)
+##### [Data Pipeline Engineer](data-pipeline-engineer.md)
+##### [Site Reliability Engineer](site-reliability-engineer.md)
 
 ## Location
 ![95 Federal St. Suite A, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=95+Federal+St.+Suite+A,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

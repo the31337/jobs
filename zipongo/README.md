@@ -3,8 +3,8 @@
 Zipongo Makes it Easy to Eat Well. We help large self-insured employers and health plans drive engagement with Prescriptions for Prevention that increase satisfaction, rationalize incentive spend and reduce healthcare costs for chronic disease sequelae. Our MealRx platform delivers challenges and rewards for healthy foods, and meal plans that tie to a digital shopping list, personalized to health risks, biometrics, preferences and location. Families may also order take home meals and home delivery groceries via their meal plans, find discounts on groceries from all major chains, and earn cash back for buying healthy GO foods, or modifying purchasing of key nutrients.
 
 ## Open Positions
-##### [Senior Fullstack Engineer](https://github.com/the31337/jobs/blob/master/zipongo/senior-fullstack-engineer.md)
-##### [Senior Product Manager](https://github.com/the31337/jobs/blob/master/zipongo/senior-product-manager.md)
+##### [Senior Fullstack Engineer](senior-fullstack-engineer.md)
+##### [Senior Product Manager](senior-product-manager.md)
 
 ## Location
 ![901 Battery Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=901+Battery+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

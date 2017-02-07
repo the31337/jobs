@@ -3,8 +3,8 @@
 App Annie is the industry leader for app analytics. With over 600,000 apps using App Annie for their analytics, they have grown into an international business. Their 3 core products are app analytics, store statistics, and market intelligence. They recently acquired 2 companies, Mobidia and Distimo, and have a total of $94 million.
 
 ## Open Positions
-##### [Senior UX Designer](https://github.com/the31337/jobs/blob/master/app-annie/senior-ux-designer.md)
-##### [VP of UX] (https://github.com/the31337/jobs/blob/master/app-annie/vp-of-ux.md)
+##### [Senior UX Designer](senior-ux-designer.md)
+##### [VP of UX](vp-of-ux.md)
 
 ## Location
 ![555 Mission St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=555+Mission+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

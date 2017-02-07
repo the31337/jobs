@@ -5,10 +5,10 @@ A peer-to-peer lending platform that goes beyond the standard FICO credit score 
 The team is founded by several ex-Googlers, including the past President of Google Enterprise. Mark Cuban, Google Ventures, and Kleiner Perkins are just a few of the VC firms backing them. They are ultimately looking to become the "Google Maps" of Finance - where you can see where you are financially at all times and are continuing to make discoveries in data.
 
 ## Open Positions
-##### [Backend Engineer](https://github.com/the31337/jobs/blob/master/upstart/backend-engineer.md)
-##### [Data Engineer](https://github.com/the31337/jobs/blob/master/upstart/data-engineer.md)
-##### [Data Scientist](https://github.com/the31337/jobs/blob/master/upstart/data-scientist.md)
-##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/upstart/fullstack-engineer.md)
+##### [Backend Engineer](backend-engineer.md)
+##### [Data Engineer](data-engineer.md)
+##### [Data Scientist](data-scientist.md)
+##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
 ![2 Circle Star Way, San Carlos, CA](https://maps.googleapis.com/maps/api/staticmap?center=2+Circle+Star+Way,+San+Carlos,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

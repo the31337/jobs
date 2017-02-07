@@ -3,8 +3,8 @@
 In 2013 Loris Degioanni founded Sysdig as he found container technology such an exciting high tech space with massive market needs. Different than the 'container maker', as a container visibility specialist they innovated the industry-first container tool for performance management, trace-driven trouble shooting and application-intelligent monitoring. It is a Simple, Fast and Powerful tool that all the container users would want to use. Series B funding from Accel last year. They just moved to the new office on 100 Bush St, SF.
 
 ## Open Positions
-##### [UI Architect / Director of UI](https://github.com/the31337/jobs/blob/master/sysdig/ui-architect-director-of-ui.md)
-##### [Product Marketing](https://github.com/the31337/jobs/blob/master/sysdig/product-marketing.md)
+##### [UI Architect / Director of UI](ui-architect-director-of-ui.md)
+##### [Product Marketing](product-marketing.md)
 
 ## Location
 ![100 Bush Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=100+Bush+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

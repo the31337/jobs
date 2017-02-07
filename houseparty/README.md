@@ -4,9 +4,9 @@
 A live video streaming app where individuals can chat and connect with friends on a synchronous social network. Unlike Facebook live and Twitter's Periscope, they are ditching public broadcasts for private group chats. Within just a few days after being released in the app store, Houseparty rose to No. 2 in top downloaded charts and gained about 1 million users.
 
 ## Open Positions
-##### [iOS Lead](https://github.com/the31337/jobs/blob/master/houseparty/ios-lead.md)
-##### [Backend Engineer](https://github.com/the31337/jobs/blob/master/houseparty/backend-engineer.md)
-##### [Android Enginner](https://github.com/the31337/jobs/blob/master/houseparty/android-engineer.md)
+##### [iOS Lead](ios-lead.md)
+##### [Backend Engineer](backend-engineer.md)
+##### [Android Enginner](android-engineer.md)
 
 ## Location
 ![San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

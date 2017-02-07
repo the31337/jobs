@@ -5,10 +5,10 @@ Segment is a platform that collects all customer data in one place and allows co
 How they make money: Platform as a Service. They have two pricing models, an Integration Model and a Warehouse Model. The Integration Model has 5 different monthly/annual options; a Free subscription, a Project subscription, a Growth subscription, a Startup subscription, and a Business subscription. The Warehouse model has 3 options, a Free subscription, a Standard subscription, and a Business subscription.
 
 ## Open Positions
-##### [Security Engineer](https://github.com/the31337/jobs/blob/master/segment/security-engineer.md)
-##### [Infrastructure Engineer](https://github.com/the31337/jobs/blob/master/segment/infrastructure-engineer.md)
-##### [Site Reliability Engineer](https://github.com/the31337/jobs/blob/master/segment/site-reliability-engineer.md)
-##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/segment/fullstack-engineer.md)
+##### [Security Engineer](security-engineer.md)
+##### [Infrastructure Engineer](infrastructure-engineer.md)
+##### [Site Reliability Engineer](site-reliability-engineer.md)
+##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
 ![101 15th Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=101+15th+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

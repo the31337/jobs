@@ -7,7 +7,7 @@ Nima has 8M in total funding from a seed round and a 4M venture round last year,
 Product - Nima will first test for Gluten... you put the food in, it mashes it all up, adds chemicals that react to the gluten, then shows if it's safe to eat.
 
 ## Open Positions
-##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/nima/ios-engineer.md)
+##### [iOS Engineer](ios-engineer.md)
 
 ## Location
 ![2121 Harrison St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

@@ -3,9 +3,9 @@
 Shift is the easiest way for people to buy and sell used cars in the peer-to-peer market. Each car undergoes a thorough 200-point inspection process, a mechanical deep dive by professional mechanics, and shift tracks multiple data points on past and current prices for comparable cars in your area. Unlike most sites, Shift offers test drives and brings the car to your door step. With $50M in Series B from Goldman Sachs, they are changing the way we buy and sell cars.  
 
 ## Open Positions
-##### [Infrastructure Engineer](https://github.com/the31337/jobs/blob/master/shift-technologies/infrastructure-engineer.md)
-##### [Fullstack Engineer (React/Go)](https://github.com/the31337/jobs/blob/master/shift-technologies/full-stack-engineer-react-go.md)
-##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/shift-technologies/ios-engineer.md)
+##### [Infrastructure Engineer](infrastructure-engineer.md)
+##### [Fullstack Engineer (React/Go)](full-stack-engineer-react-go.md)
+##### [iOS Engineer](ios-engineer.md)
 
 ## Location
 ![2500 Market St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2500+Market+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

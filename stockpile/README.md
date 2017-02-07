@@ -4,9 +4,9 @@
 Stockpile’s mission is to make it easy, affordable, and fun for anyone to collect stock in their favorite brands. Don’t just like it on Facebook -- own it at Stockpile! Stockpile Investments is the world’s first brokerage platform that makes it easy and affordable for anyone to give, get, and own stock in any dollar amount. You can buy, trade and sell any stock in any denomination above $25. That's right, you can own a piece of Apple for $25.
 
 ## Open Positions
-#### [Backend Engineer (Java)](https://github.com/the31337/jobs/blob/master/stockpile/backend-engineer-java.md)
-#### [Senior Frontend Engineer (Angular, React)](https://github.com/the31337/jobs/blob/master/stockpile/senior-frontend-engineer-angular-react.md)
-#### [Fullstack Engineer (JS/ Java)](https://github.com/the31337/jobs/blob/master/stockpile/fullstack-engineer-js-java.md)
+#### [Backend Engineer (Java)](backend-engineer-java.md)
+#### [Senior Frontend Engineer (Angular, React)](senior-frontend-engineer-angular-react.md)
+#### [Fullstack Engineer (JS/ Java)](fullstack-engineer-js-java.md)
 
 ## Location
 ![Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

@@ -1,8 +1,8 @@
 # Nominum
 
 ## Open Positions
-##### [Fullstack Frontend Developer](https://github.com/the31337/jobs/blob/master/nominum/fullstack-frontend-developer.md)
-##### [Principal Platform Engineer](https://github.com/the31337/jobs/blob/master/nominum/principal-platform-engineer.md)
+##### [Fullstack Frontend Developer](fullstack-frontend-developer.md)
+##### [Principal Platform Engineer](principal-platform-engineer.md)
 
 ## Location
 ![800 Bridge Parkway, Suite 100, Redwood City, CA](https://maps.googleapis.com/maps/api/staticmap?center=800+Bridge+Parkway,+Suite+100,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

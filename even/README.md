@@ -6,7 +6,7 @@ Even gives you a consistent paycheck every week, no matter how many hours you go
 You want to fix that. By building software that eliminates the underlying inefficiencies. At Even, you’ll be working on software that gives the lower and middle classes more financial stability, purchasing power, and upward mobility. You’ll be doing it by building products that people love, use every day, and come to depend on. And you’ll be working in an organization that has incredibly high engineering standards, because it treats engineers as product owners.
 
 ## Open Positions
-##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/even/fullstack-engineer.md)
+##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
 ![Oakland, CA](https://maps.googleapis.com/maps/api/staticmap?center=Oakland,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

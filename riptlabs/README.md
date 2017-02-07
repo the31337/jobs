@@ -5,9 +5,9 @@ If you’re passionate for healthy lifestyle and technology, check out Ript Labs
 Still early stage, well-funded with a really fun team and family-like culture of high performers.  Just moved to their new office@SF and actively looking for new members!
 
 ## Open Positions
-##### [Director Hardware Engineering](https://github.com/the31337/jobs/blob/master/riptlabs/director-hardware-engineering.md)
-##### [Head of Product Management](https://github.com/the31337/jobs/blob/master/riptlabs/head-of-product-management.md)
-##### [Senior Android Developer](https://github.com/the31337/jobs/blob/master/riptlabs/senior-android-developer.md)
+##### [Director Hardware Engineering](director-hardware-engineering.md)
+##### [Head of Product Management](head-of-product-management.md)
+##### [Senior Android Developer](senior-android-developer.md)
 
 ## Location
 ![San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

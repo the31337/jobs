@@ -3,9 +3,9 @@
 Banjo has built a proprietary means to aggregate, analyze, and present data posted on public social networks. Using Banjo’s tools, news reports about the identity of the Boston Marathon bomber and the Malaysia Airline missile strike were brought to attention through their media partners before anyone else. Not only is this beneficial for news, you can imagine this technology can be applied to brands, financial services and entertainment. Banjo currently works with companies such as Disney, ESPN, Yahoo, Google, Oreo, the list goes on. Check out this article HERE to find out why Banjo is the most important social media company that you’ve never heard of :) And we've been working with them for 4 years!
 
 ## Open Positions
-##### [Backend Engineer](https://github.com/the31337/jobs/blob/master/banjo/backend-engineer.md)
-##### [DevOps Engineer](https://github.com/the31337/jobs/blob/master/banjo/devops-engineer.md)
-##### [Python Production Engineer](https://github.com/the31337/jobs/blob/master/banjo/python-production-engineer.md)
+##### [Backend Engineer](backend-engineer.md)
+##### [DevOps Engineer](devops-engineer.md)
+##### [Python Production Engineer](python-production-engineer.md)
 
 ## Location
 ![833 Main St, Redwood City, CA](https://maps.googleapis.com/maps/api/staticmap?center=833+Main+St,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

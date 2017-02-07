@@ -3,7 +3,7 @@
 LearnUp is a platform used to help retail workers get hired through skills training, career coaching and automatic interview scheduling. They've worked wonders in cutting down interview time and employee retention, with the aim to help employees work their way up in a company. With a recent Series A of $8 million led by NEA, their vision is to offer a new model for economic empowerment and opportunity in America.
 
 ## Open Positions
-##### [Product Manager](https://github.com/the31337/jobs/blob/master/learnup/product-manager.md)
+##### [Product Manager](product-manager.md)
 
 ## Location
 ![995 Market Street, 14th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=995+Market+Street,+14th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

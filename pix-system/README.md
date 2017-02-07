@@ -6,10 +6,10 @@ A start up that mingles with movie stars, PIX develops the "project management" 
 Their software comes in 3 main forms, an iOS App, a Mac OS app, and a Web App. The software is used by some of the biggest names in hollywood for everything from messaging, scheduling, casting, and post production.
 
 ## Open Positions
-#### [Software Engineer, Platform](https://github.com/the31337/jobs/blob/master/pix-systems/software-engineer-platform.md)
-#### [Designer](https://github.com/the31337/jobs/blob/master/pix-system/designer.md)
-##### [Director of Product Management](https://github.com/the31337/jobs/blob/master/pix-system/director-of-product-management.md)
-##### [Tools / Internal Engineer](https://github.com/the31337/jobs/blob/master/pix-system/tools-internal-engineer.md)
+#### [Software Engineer, Platform](software-engineer-platform.md)
+#### [Designer](designer.md)
+##### [Director of Product Management](director-of-product-management.md)
+##### [Tools / Internal Engineer](tools-internal-engineer.md)
 
 ## Location
 ![100 1st St, Suite 300, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=100+1st+St,+Suite+300,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

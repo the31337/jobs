@@ -4,8 +4,8 @@
 Helping Drug companies have more efficient Trials - let's drugs get released faster, saves a ton of money
 
 ## Open Positions
-##### [Platform Engineer (Infrastructure)](https://github.com/the31337/jobs/blob/master/comprehend/platform-engineer-infrastructure.md)
-##### [Senior Fullstack Engineer (React/ Scala)](https://github.com/the31337/jobs/blob/master/comprehend/senior-fullstack-engineer-react-scala.md)
+##### [Platform Engineer (Infrastructure)](platform-engineer-infrastructure.md)
+##### [Senior Fullstack Engineer (React/ Scala)](senior-fullstack-engineer-react-scala.md)
 
 ## Location
 ![2010 Broadway, Suite 200, Redwood City, CA](https://maps.googleapis.com/maps/api/staticmap?center=2010+Broadway,+Suite+200,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

@@ -12,12 +12,12 @@ Humble – customer-first; “we” rather than “I”
 Honest – transparency & integrity
 
 ## Open Positions
-##### [Director of PM - MCAM](https://github.com/the31337/jobs/blob/master/sendgrid/director-of-pm-mcam.md)
-##### [Principal Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/principal-software-engineer-marketing-apps.md)
-##### [Senior Product Manager - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-product-manager-labs.md)
-##### [Senior Software Engineer - Marketing Apps](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-marketing-apps.md)
-##### [Senior Software Engineer (Fullstack) - Labs](https://github.com/the31337/jobs/blob/master/sendgrid/senior-software-engineer-fullstack-labs.md)
-##### [Software Engineering Manager (Marketing Campaigns)](https://github.com/the31337/jobs/blob/master/sendgrid/software-engineering-manager-marketing-campaigns.md)
+##### [Director of PM - MCAM](director-of-pm-mcam.md)
+##### [Principal Software Engineer - Marketing Apps](principal-software-engineer-marketing-apps.md)
+##### [Senior Product Manager - Labs](senior-product-manager-labs.md)
+##### [Senior Software Engineer - Marketing Apps](senior-software-engineer-marketing-apps.md)
+##### [Senior Software Engineer (Fullstack) - Labs](senior-software-engineer-fullstack-labs.md)
+##### [Software Engineering Manager (Marketing Campaigns)](software-engineering-manager-marketing-campaigns.md)
 
 ## Location
 ![401 Warren St., Floor 2, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=401+Warren+St.,+Floor+2,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C401+Warren+St.,+Floor+2,+Redwood+City,+CA)  

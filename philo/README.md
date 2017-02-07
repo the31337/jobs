@@ -4,10 +4,10 @@
 The average American watches 4.5 hours of TV a day, and cable is the biggest advertising market in the world. It's about time someone created a better user experience. Philo is reinventing TV, starting with universities and small cable providers. With founders coming from Harvard, a CTO from MIT, one of Facebook's founding level engineers as CEO, and an extremely talented engineering team, they are beginning their journey to become like Spotify for your TV.
 
 ## Open Positions
-#### [Backend Engineer](https://github.com/the31337/jobs/blob/master/philo/backend-engineer.md)
-#### [Frontend Engineer](https://github.com/the31337/jobs/blob/master/philo/frontend-engineer.md)
-##### [Senior iOS Engineer](https://github.com/the31337/jobs/blob/master/philo/senior-ios-engineer.md)
-##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/philo/fullstack-engineer.md)
+#### [Backend Engineer](backend-engineer.md)
+#### [Frontend Engineer](frontend-engineer.md)
+##### [Senior iOS Engineer](senior-ios-engineer.md)
+##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
 ![772 Bryant Street, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=772+Bryant+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C772+Bryant+Street,+San+Francisco,+CA)  

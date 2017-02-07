@@ -4,7 +4,7 @@
 Bloc Offers mentor led online courses for development and design, teaching real skills to help students change their careers and improve their lives. Their graduates find jobs as freelancers, professional designers, and developers and build MVPs for their entrepreneurial ventures. They're in the EdTech space, received a $6 million Series A and pride themselves on quality, authenticity, and outcomes. They made this fun game too.
 
 ## Open Positions
-##### [Software Engineer (Agnostic, Ruby on Rails)](https://github.com/the31337/jobs/blob/master/bloc/software-engineer-agnostic-ruby-on-rails.md)
+##### [Software Engineer (Agnostic, Ruby on Rails)](software-engineer-agnostic-ruby-on-rails.md)
 
 ## Location
 ![110 Sutter St. 10th Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=110+Sutter+St.+10th+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

@@ -4,7 +4,7 @@
 Compology builds WasteOS: the only routing system built exclusively for the waste industry. They use sensors and software to monitor levels in industrial waste containers to more efficiently route collection trucks. This has created massive saving for their customers by reducing their fleet sizes (collection trucks) by up to 40%.
 
 ## Open Positions
-##### [Lead UI/UX Designer] (https://github.com/the31337/jobs/blob/master/compology/lead-ui-ux-designer.md)
+##### [Lead UI/UX Designer] (lead-ui-ux-designer.md)
 
 ## Location
 ![2121 Harrison St, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C2121+Harrison+St,+San+Francisco,+CA)  

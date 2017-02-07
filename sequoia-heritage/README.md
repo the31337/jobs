@@ -4,7 +4,7 @@ The Sequoia team helps a small number of daring founders build legendary compani
 In aggregate, Sequoia-backed companies account for more than 20% of NASDAQ’s total value. We’re proud that their success also fuels great causes: since 2000 alone we have returned more than $10 billion to non-profits like the Ford Foundation, Mayo Clinic and MIT.
 
 ## Open Positions
-##### [Senior Application Developer](https://github.com/the31337/jobs/blob/master/sequoia-heritage/senior-application-developer.md)
+##### [Senior Application Developer](senior-application-developer.md)
 
 ## Location
 ![2800 Sand Hill Rd, #101, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=2800+Sand+Hill+Rd,+#101,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

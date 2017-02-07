@@ -4,7 +4,7 @@
 Chorus is an intelligence tool bringing analytics and insights to what once was the black box of sales calls. They received $6.3M from Emergence Capital who funded Salesforce early. Chorus uses natural language processing, machine learning, and artificial intelligence to unite sales conversations into a single dashboard, allowing sales teams to identify what works to close more deals. The bulk of the R&D team is based in Tel Aviv, but since it is a product with US users, they are building a team in SF. Chorus already has paying customers including Cisco Meraki, Marketo, and Qualtrics who are already reaping the benefits.  
 
 ## Open Positions
-##### [Support / DevOps Engineer](https://github.com/the31337/jobs/blob/master/chorus/support-devops-engineer.md)
+##### [Support / DevOps Engineer](support-devops-engineer.md)
 
 ## Location
 ![333 Bush St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=333+Bush+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

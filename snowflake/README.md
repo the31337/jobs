@@ -5,9 +5,9 @@ Started with an ambitious goal: to reinvent the data warehouse. We saw the need 
 To achieve that, we have assembled a team of experts: https://www.snowflake.net/about/team in data processing who hold over 120 patents in the fields of database architecture, data warehouses, query optimization and parallelization.
 
 ## Open Positions
-#### [Senior Backend Engineer](https://github.com/the31337/jobs/blob/master/snowflake/senior-backend-engineer.md)
-##### [Senior Fullstack](https://github.com/the31337/jobs/blob/master/snowflake/senior-fullstack.md)
-##### [Senior Query Processing Engineer](https://github.com/the31337/jobs/blob/master/snowflake/senior-query-processing-engineer.md)
+#### [Senior Backend Engineer](senior-backend-engineer.md)
+##### [Senior Fullstack](senior-fullstack.md)
+##### [Senior Query Processing Engineer](senior-query-processing-engineer.md)
 
 ## Location
 ![101 South Ellsworth Avenue, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=101+South+Ellsworth+Avenue,+San+Mateo,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

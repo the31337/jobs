@@ -7,8 +7,8 @@ We’re not about unrealistic promises or get-happy-quick schemes. We’re about
 We envision a world in which people think differently about their mental health–where they feel empowered to take a simple step toward self-improvement. We’re on a mission to make this happen, and we hope you’ll join us.
 
 ## Open Positions
-##### [iOS Engineer](https://github.com/the31337/jobs/blob/master/lantern/ios-engineer.md)
-##### [QA Engineer](https://github.com/the31337/jobs/blob/master/lantern/qa-engineer.md)
+##### [iOS Engineer](ios-engineer.md)
+##### [QA Engineer](qa-engineer.md)
 
 ## Location
 ![2 Shaw Alley, 5th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2+Shaw+Alley,+5th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

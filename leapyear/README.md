@@ -7,7 +7,7 @@ LeapYear's team has decades of collective experience with Google, Apple, the Dep
 We are advised by Enrique Salem, former CEO of Symantec, Hans Morris, former President of VISA, and Aaron Roth, former advisor to Apple and world expert in differentially private machine learning.
 
 ## Open Positions
-##### [Frontend Engineering Manager](https://github.com/the31337/jobs/blob/master/leapyear/frontend-engineering-manager.md)
+##### [Frontend Engineering Manager](frontend-engineering-manager.md)
 
 ## Location
 ![2809 Telegraph Avenue, Berkeley, CA](https://maps.googleapis.com/maps/api/staticmap?center=2809+Telegraph+Avenue,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

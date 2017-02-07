@@ -4,13 +4,13 @@
 LiveRamp, acquired by Axciom in 2014, is the leader of data connectivity, bringing better visibility into marketing campaigns. By connecting offline customer data with their online digital marketing efforts, companies can now reach more customers and increase overall response rates and sales. LiveRamp is working with over 300 clients, including Facebook, Twitter, Pinterest, Roku, and Instagram. Employees are also thriving in their fast-paced, culture driven environment.
 
 ## Open Positions
-##### [Senior Fullstack Engineer](https://github.com/the31337/jobs/blob/master/liveramp/senior-fullstack-engineer.md)
-##### [Team Lead Backend Engineer](https://github.com/the31337/jobs/blob/master/liveramp/team-lead-backend-engineer.md)
-##### [Team Lead Fullstack Engineer](https://github.com/the31337/jobs/blob/master/liveramp/team-lead-fullstack-engineer.md)
-##### [Senior Platform Engineer] (https://github.com/the31337/jobs/blob/master/liveramp/senior-platform-engineer.md)
-##### [Data Scientist](https://github.com/the31337/jobs/blob/master/liveramp/data-scientist.md)
-##### [Senior DevOps Engineer](https://github.com/the31337/jobs/blob/master/liveramp/senior-devops-engineer.md)
-##### [UX Engineer](https://github.com/the31337/jobs/blob/master/liveramp/ux-engineer.md)
+##### [Senior Fullstack Engineer](senior-fullstack-engineer.md)
+##### [Team Lead Backend Engineer](team-lead-backend-engineer.md)
+##### [Team Lead Fullstack Engineer](team-lead-fullstack-engineer.md)
+##### [Senior Platform Engineer](senior-platform-engineer.md)
+##### [Data Scientist](data-scientist.md)
+##### [Senior DevOps Engineer](senior-devops-engineer.md)
+##### [UX Engineer](ux-engineer.md)
 
 ## Location
 ![225 Bush St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=225+Bush+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

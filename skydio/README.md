@@ -8,8 +8,8 @@ General overview video - https://www.youtube.com/watch?v=rYhPDn48-Sg
 Drone roof inspection via Skydio - https://www.youtube.com/watch?v=l4D8ErMMvnQ
 
 ## Open Positions
-##### [Computer Vision Engineer](https://github.com/the31337/jobs/blob/master/skydio/computer-vision-engineer.md)
-##### [iOS Developer](https://github.com/the31337/jobs/blob/master/skydio/ios-developer.md)
+##### [Computer Vision Engineer](computer-vision-engineer.md)
+##### [iOS Developer](ios-developer.md)
 
 ## Location
 ![Redwood City, CA](https://maps.googleapis.com/maps/api/staticmap?center=Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

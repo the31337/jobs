@@ -3,11 +3,11 @@
 ZipCar is the world's leading car sharing network and they recently acquired Local Motion.  As society is headed towards automated cars, ZipCar sees a huge opportunity for them to join the ride sharing race with Uber and Lyft.  Since ZipCar is owned by Avis, they have half a million cars already in their fleet that can be turned autonomous (something Uber and Lyft don't have).  You will be working on the latest challenges in tech, Bluetooth networking from your phone to the car, and helping them scale for this upcoming ride sharing project.  Their HQ is in Boston but the small/close knit engineering team in San Mateo carries the bulk of the load.
 
 ## Open Positions
-##### [Fullstack Engineer](https://github.com/the31337/jobs/blob/master/zipcar/fullstack-engineer.md)
-##### [Infrastructure Engineer](https://github.com/the31337/jobs/blob/master/zipcar/infrastructure-engineer.md)
-##### [Embedded Engineer](https://github.com/the31337/jobs/blob/master/zipcar/embedded-engineer.md)
-##### [Backend Java Engineer](https://github.com/the31337/jobs/blob/master/zipcar/backend-java-engineer.md)
-##### [Quality Engineer](https://github.com/the31337/jobs/blob/master/zipcar/quality-engineer.md)
+##### [Fullstack Engineer](fullstack-engineer.md)
+##### [Infrastructure Engineer](infrastructure-engineer.md)
+##### [Embedded Engineer](embedded-engineer.md)
+##### [Backend Java Engineer](backend-java-engineer.md)
+##### [Quality Engineer](quality-engineer.md)
 
 ## Location
 ![15 N Ellsworth unit 100, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=15+N+Ellsworth+unit+100,+San+Mateo&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)

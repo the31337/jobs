@@ -4,10 +4,10 @@
 Rabbit is a Series A startup located in Redwood City that is focused on advancing video communications and content sharing.  Their web and mobile platform allows for synchronous sharing of any online content with the addition of concurrent video and message chat.  This means you can watch TV shows with your friends in HD without being in the same room or the same city, collaborate with co-workers, or shop online with your friends at the same time!  They are backed by top tier venture capital firms in the Bay Area and are solving some challenging video networking problems!
 
 ## Open Positions
-##### [Senior Software Engineer Realtime Audio/Video Streaming](https://github.com/the31337/jobs/blob/master/rabbit/senior-software-engineer-realtime-audio-video-streaming.md)
-##### [Senior Platform Engineer](https://github.com/the31337/jobs/blob/master/rabbit/senior-software-engineer-platform.md)
-##### [Senior Web Developer](https://github.com/the31337/jobs/blob/master/rabbit/senior-web-developer.md)
-##### [Product Manager] (https://github.com/the31337/jobs/blob/master/rabbit/product-manager.md)
+##### [Senior Software Engineer Realtime Audio/Video Streaming](senior-software-engineer-realtime-audio-video-streaming.md)
+##### [Senior Platform Engineer](senior-software-engineer-platform.md)
+##### [Senior Web Developer](senior-web-developer.md)
+##### [Product Manager](product-manager.md)
 
 ## Location
 ![1741 Broadway Street Ste 200, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=1741+Broadway+Street,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C1741+Broadway+Street,+Redwood+City,+CA)  

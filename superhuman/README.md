@@ -6,7 +6,7 @@ With over 900+ Million people spending over 3+ hours reading and writing email d
 It’s gorgeous. Blazingly fast. And comes with advanced features that give you super control over your messaging: A.I. Triage. Undo Send. Insights from social networks. Follow-up Reminders, Scheduled Messages, and Read Statuses, to name but a few.
 
 ## Open Positions
-#### [Polymath Fullstack Engineer](https://github.com/the31337/jobs/blob/master/superhuman/polymath-fullstack-engineer.md)
+#### [Polymath Fullstack Engineer](polymath-fullstack-engineer.md)
 
 ## Location
 ![465 California St. #300, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=465+California+St.+#300,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

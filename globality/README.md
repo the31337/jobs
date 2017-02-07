@@ -15,7 +15,7 @@ For Example:
 A company in China that invented a digital piano that helps people learn to play and is really successful in China can post their business needs (Marketing Services to enter the U.S.) in the Platform and gets matched with boutique service providers that can help with what they're looking for.
 
 ## Open Positions
-##### [Platform Engineer](https://github.com/the31337/jobs/blob/master/globality/platform-engineer.md)
+##### [Platform Engineer](platform-engineer.md)
 
 ## Location
 ![8 Homewood Pl. #150, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=8+Homewood+Pl.+#150,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

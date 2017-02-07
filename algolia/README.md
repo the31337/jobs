@@ -3,7 +3,7 @@
 Algolia is an international company located in San Francisco (HQ in Paris) building a search API that is used by proven customers like Crunchbase, Vevo, Periscope, and Twitch. With Series A funding and a proven product, they are looking to scale and tap in to new markets. They have unique differentiators for all aspects of search and it is designed to maximize speed and relevant results.
 
 ## Open Positions
-##### [Solution Engineer](https://github.com/the31337/jobs/blob/master/algolia/solutions-engineer.md)
+##### [Solution Engineer](solutions-engineer.md)
 
 ## Location
 ![589 Howard St. Suite 5, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=589+Howard+St.+Suite+5,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
