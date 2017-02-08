@@ -3,7 +3,6 @@
 Zipongo Makes it Easy to Eat Well. We help large self-insured employers and health plans drive engagement with Prescriptions for Prevention that increase satisfaction, rationalize incentive spend and reduce healthcare costs for chronic disease sequelae. Our MealRx platform delivers challenges and rewards for healthy foods, and meal plans that tie to a digital shopping list, personalized to health risks, biometrics, preferences and location. Families may also order take home meals and home delivery groceries via their meal plans, find discounts on groceries from all major chains, and earn cash back for buying healthy GO foods, or modifying purchasing of key nutrients.
 
 ## Open Positions
-##### [Senior Fullstack Engineer](senior-fullstack-engineer.md)
 ##### [Senior Product Manager](senior-product-manager.md)
 
 ## Location

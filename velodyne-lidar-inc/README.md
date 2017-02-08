@@ -1,9 +1,7 @@
 # Velodyne LIDAR Inc.
 
 ## Open Positions
-##### [Director of Programs](director-of-programs.md)
-##### [Director of Supply Chain](director-of-supply-chain.md)
-##### [Automotive Sensor Product Manager](automotive-sensor-product-manager.md)
++ No current openings
 
 ## Location
 ![345 Digital Drive, Morgan Hill, CA](https://maps.googleapis.com/maps/api/staticmap?center=345+Digital+Drive,+Morgan+Hill,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

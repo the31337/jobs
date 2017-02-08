@@ -6,7 +6,6 @@ Rabbit is a Series A startup located in Redwood City that is focused on advancin
 ## Open Positions
 ##### [Senior Software Engineer Realtime Audio/Video Streaming](senior-software-engineer-realtime-audio-video-streaming.md)
 ##### [Senior Platform Engineer](senior-software-engineer-platform.md)
-##### [Senior Web Developer](senior-web-developer.md)
 ##### [Product Manager](product-manager.md)
 
 ## Location
