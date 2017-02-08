@@ -6,7 +6,6 @@ Founded in July 2011, Good Eggs has aimed to make it easier for people to buy or
 ## Open Positions
 ##### [Delivery Engineer (DevOps)](delivery-engineer-devops.md)
 ##### [Fullstack Engineer (javascript, node)](fullstack-engineer-javascript-node.md)
-##### [Senior Software Engineer, Logistics and Operations](senior-software-engineer-logistics-and-operations.md)
 ##### [iOS Engineer](ios-engineer.md)
 
 ## Location

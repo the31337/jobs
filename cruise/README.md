@@ -4,7 +4,7 @@
 Our first production run will be limited to 50 units, and you get first access.  We’ve also allotted a few units from our initial supply for friends of friends.  The products sold now will be installed at the beginning of 2015 and are being pre-sold on a first come first serve basis.  9 of the 50 are already spoken for, so let me know soon if you’re interested.
 
 ## Open Positions
-##### [Mechatronics Engineer](mechatronics-engineer.md)
++ No current openings
 
 ## Location
 ![54 Gilbert St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=54+Gilbert+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C24th+&+Mission+ST,+San+Francisco,+CA)  

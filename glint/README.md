@@ -7,7 +7,6 @@ Their recent $37M Series C round brings their total funding to $60M. Solid leade
 ## Open Positions
 #### [Systems Engineer](systems-engineer.md)
 #### [Senior Web Applications Engineer](senior-web-applications-engineer.md)
-#### [Engineering Director](engineering-director.md)
 #### [Data Platform Engineer](data-platform-engineer.md)
 #### [Associate Systems Engineer](associate-systems-engineer.md)
 

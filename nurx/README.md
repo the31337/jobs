@@ -16,7 +16,6 @@ At Nurx, we know that you don’t have time for another trip to the doctor’s o
 We want to challenge the status quo, break down unnecessary barriers and give women more control over their own health.
 
 ## Open Positions
-##### [iOS Engineer](ios-engineer.md)
 ##### [Infrastructure Engineer](infrastructure-engineer.md)
 ##### [Frontend Engineer](frontend-engineer.md)
 

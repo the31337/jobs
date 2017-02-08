@@ -4,7 +4,7 @@
 Bonsai is creating a platform and community aiming to make it easier for developers to build AI. To do this, they have built a better learning system and developed a language for that called Inkling.
 
 ## Open Positions
-#### [Technical Product Manager](technical-product-manager.md)
++ No current openings
 
 ## Location
 ![2140 Shattuck Ave., Ste. 510, Berkeley, CA](https://maps.googleapis.com/maps/api/staticmap?center=2140+Shattuck+Ave.,+Ste.+510,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  

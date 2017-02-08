@@ -4,7 +4,6 @@
 Affirm is an SF financial tech start-up that is headed by Max Levchin (PayPal Mafia, Slide acquired by Google in '10). With a $275MM Series B, they are focused on remaking consumer finance by providing loans to consumers for point of sale transactions. This enables consumers to pay over time by picking a loan that fits consumers budget and payment timeline (i.e.: 3-12 months). A few well known consumer-focused start-ups, such as The RealReal and Casper, have implemented Affirm's revolutionary check out and financing platform.
 
 ## Open Positions
-#### [Senior Android Engineer](senior-android-engineer.md)
 #### [Platform Engineer (Python)](platform-engineer-python.md)
 #### [Site Reliability Engineer (Devops/SRE)](site-reliability-engineer-sre-devops.md)
 #### [Software Engineer - FullStack](fullstack-engineer.md)

@@ -9,7 +9,7 @@ Our first device makes gourmet burgers from scratch. Not only do we grind the me
 Serving a burger this great at such affordable prices would be impossible without culinary automation. We’re building an engineering-focused group of analytic and creative individuals. The team consists of roboticists from institutions including Berkeley and Stanford and firms like Tesla and NASA. Our culinary team contains veterans of  Chez Panisse and Fat Duck. Our advisors include experts across fields like engineering, culinary, design, intellectual property, and even a NRN Restaurant Operator of the Year Award winner. Additionally, we’re further advised and supported by some of the top investors in the Silicon Valley.
 
 ## Open Positions
-##### [Lead Backend Engineer](lead-backend-engineer.md)
++ No current openings
 
 ## Location
 ![977 Howard St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=977+Howard+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
